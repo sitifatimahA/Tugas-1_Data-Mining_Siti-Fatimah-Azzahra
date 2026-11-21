@@ -1,0 +1,51 @@
+DESKRIPSI KASUS: PREDIKSI CHURN PELANGGAN PENYEDIA INTERNET (ISP) DI INDONESIA
+==============================================================================
+Pemberi kasus : Kesia - 3022410046
+Dataset       : churn_isp_kotor.csv  (565 baris, 17 variabel)
+Sumber        : Data sintetis (dibuat dengan bantuan AI) untuk keperluan tugas
+                Data Preprocessing. Data telah sengaja dibuat kotor.
+
+LATAR BELAKANG
+Sebuah perusahaan penyedia layanan internet rumahan di beberapa kota besar
+Indonesia ingin memprediksi pelanggan yang berhenti berlangganan (churn) agar
+dapat memberikan penawaran retensi lebih awal. Data pelanggan yang diterima dari
+berbagai sistem masih berantakan sehingga harus dipersiapkan terlebih dahulu
+sebelum dapat dimodelkan.
+
+KAMUS VARIABEL
+No  Variabel               Tipe                 Keterangan
+1   ID_Pelanggan           Kategorik (ID)       Kode unik pelanggan
+2   Usia                   Numerik              Usia pelanggan (tahun)
+3   Jenis_Kelamin          Kategorik            Laki-laki / Perempuan
+4   Kota                   Kategorik            Kota domisili pelanggan
+5   Paket                  Kategorik ordinal    Basic / Standard / Premium
+6   Lama_Langganan_Bulan   Numerik              Lama berlangganan (bulan)
+7   Tagihan_Bulanan_IDR    Numerik              Tagihan per bulan (rupiah)
+8   Total_Tagihan_IDR      Numerik              Total tagihan selama berlangganan
+9   Jumlah_Keluhan         Numerik              Jumlah keluhan yang pernah diajukan
+10  Skor_Kepuasan          Numerik (ordinal)    Skala 1-10
+11  Metode_Bayar           Kategorik            Transfer Bank / E-Wallet /
+                                                Kartu Kredit / Virtual Account
+12  Tanggal_Daftar         Tanggal              Tanggal mulai berlangganan
+13  Tagihan_Bulanan_USD    Numerik              Tagihan per bulan (dolar AS)
+14  Negara                 Kategorik            Negara pelanggan
+15  Penggunaan_Data_GB     Numerik              Jumlah pemakaian data internet (GB)
+                                                pada periode yang dicatat
+16  Periode_Penggunaan     Kategorik            Periode pencatatan pemakaian data:
+                                                Mingguan / Bulanan
+17  Churn                  Kategorik (target)   0 = bertahan, 1 = berhenti
+
+TUGAS YANG HARUS DIKERJAKAN
+1. Eksplorasi data awal (struktur, tipe data, statistik deskriptif, jumlah
+   missing value, jumlah duplikat).
+2. Identifikasi seluruh masalah data yang ada pada dataset.
+3. Lakukan data cleaning (duplikat, tipe data, inkonsistensi, nilai tidak
+   valid, format, satuan pengukuran, level agregasi, noise).
+4. Tangani missing value pada variabel numerik dan kategorik. Gunakan minimal
+   statistik deskriptif (mean/median/modus) dan jelaskan alasan pemilihan.
+5. Deteksi dan tangani outlier (misalnya IQR atau Z-score).
+6. Lakukan reduksi data (buang atribut tidak relevan/konstan/redundan).
+7. Lakukan transformasi (encoding, normalisasi/standardisasi, transformasi log
+   untuk data miring, diskretisasi, pembuatan fitur baru).
+8. Tangani ketidakseimbangan kelas pada variabel target Churn.
+9. Jelaskan setiap tahapan dalam format input - proses - output.

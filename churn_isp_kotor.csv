@@ -1,0 +1,566 @@
+ID_Pelanggan,Usia,Jenis_Kelamin,Kota,Paket,Lama_Langganan_Bulan,Tagihan_Bulanan_IDR,Total_Tagihan_IDR,Jumlah_Keluhan,Skor_Kepuasan,Metode_Bayar,Tanggal_Daftar,Tagihan_Bulanan_USD,Negara,Penggunaan_Data_GB,Periode_Penggunaan,Churn
+  cust1526@@,38.0,Perempuan,Yogyakarta, BASIC,17,378900.0,6441300.0,0,,Transfer Bank,09/07/2024,23.68,Indonesia,155.7,Bulanan,0
+CUST1033,45.0,Perempuan,Medan,Standard,22,403900.0,8885800.0,1,6.0,Transfer Bank,10/02/2024,25.24,Indonesia,403.7,Bulanan,1
+CUST1465,48.0,P,Jakarta,Standard,56,384400.0,21526400.0,1,9.0,E-Wallet,26 April 2021,24.02,Indonesia,430.9,Bulanan,0
+  cust1585@@,36.0,Laki-laki,Surabaya,Standard,8,381300.0,3050400.0,0,,Virtual Account,05 April 2025,23.83,Indonesia,334.7,Bulanan,1
+CUST1436,36.0,Laki-laki,Semarang,Standard,11,409700.0,4506700.0,1,,,05/01/2025,25.61,Indonesia,83.3,Mingguan,0
+CUST1548,21.0,Perempuan,Surabaya,Basic,31,259400.0,8041400.0,1,8.0,,16 May 2023,16.21,Indonesia,215.4,Bulanan,0
+CUST1234,39.0,Laki-laki,Surabaya,Basic,35,240500.0,8417500.0,1,6.0,Virtual Account,16 January 2023,15.03,Indonesia,271.0,Bulanan,0
+CUST1241,21.0,,Yogyakarta,Standard,13,392.8,5106400.0,40,6.0,Virtual Account,2024-11-06,24.55,Indonesia,582.1,Bulanan,0
+CUST1555,43.0,Laki-laki,Makassar,Basic,54,246100.0,13289400.0,1,,E-Wallet,2021-06-25,15.38,Indonesia,179.6,Bulanan,0
+CUST1071,27.0,L,Bandung,Standard,13,420000.0,5460000.0,0,8.0,,11-06-24,26.25,Indonesia,584.7,Bulanan,0
+CUST1537,22.0,Perempuan,Jakarta,Standard,16,403400.0,6454400.0,1,7.0,Ewallet,2024-08-08,25.21,Indonesia,486.9,Bulanan,0
+CUST1473,24 th,Laki-laki,Makassar,Basic,12,Rp239500,2874000.0,1,8.0,E-Wallet,06/12/2024,14.97,Indonesia,168.7,Bulanan,0
+CUST1367,46.0,Perempuan,Jakarta,Premium,30,673000.0,20190000.0,2,6.0,Transfer Bank,2023-06-15,42.06,Indonesia,904.3,Bulanan,0
+CUST1570,49.0,Laki-laki,Semarang,Basic,23,260300.0,5986900.0,0,10.0,Transfer Bank,2024-01-11,16.27,Indonesia,198.9,Bulanan,0
+CUST1484,40.0,Perempuan,Jakarta,Standard,10,401500.0,4015000.0,1,8.0,Transfer Bank,04/02/2025,25.09,Indonesia,108.8,Mingguan,0
+CUST1239,51.0,P,SURABAYA,Basic,21,,5233200.0,0,10.0,Virtual Account,11 March 2024,15.58,Indonesia,249.7,Bulanan,0
+CUST1008,18.0,Laki-laki,Medan,Premium,27,692600.0,18700200.0,1,7.0,E-Wallet,2023-09-13,43.29,Indonesia,244.7,Mingguan,0
+CUST1069,28.0,Laki-laki,Bandung,Premium,15,,9496500.0,3,99,transfer bank,2024-09-07,39.57,Indonesia,941.5,Bulanan,0
+CUST1014,35.0,L,Surabaya,Premium,16,,10416000.0,1,5.0,,08-08-24,40.69,Indonesia,256.7,Mingguan,0
+CUST1094,38.0,Laki-laki,Medan,Basic,16,228000.0,3648000.0,3,5.0,Ewallet,08 August 2024,14.25,Indonesia,181.5,Bulanan,0
+CUST1337,41.0,Perempuan,Surabaya,Premium,60,633700.0,38022000.0,1,7.0,E-Wallet,2020-12-27,39.61,Indonesia,224.9,Mingguan,0
+CUST1237,,Perempuan,Medan,Standard,6,Rp399600,2397600.0,2,7.0,Kartu Kredit,04 June 2025,24.98,Indonesia,432.5,Bulanan,1
+CUST1253,35.0,Laki-laki,yogyakarta ,Basic,12,251800.0,3021600.0,0,9.0,E-Wallet,06 December 2024,15.74,Indonesia,226.7,Bulanan,0
+CUST1349,32 th,P,Semarang,Basic,46,259500.0,11937000.0,0,8.0,Transfer Bank,20/02/2022,16.22,Indonesia,294.0,Bulanan,0
+CUST1182,21.0,Laki-laki,Makassar,Premium,19,621900.0,11816100.0,2,6.0,Transfer Bank,10 May 2024,38.87,Indonesia,232.2,Mingguan,1
+CUST1448,-5,Laki-laki,Medan,Basic,37,251800.0,9316600.0,1,6.0,E-Wallet,17 November 2022,15.74,Indonesia,249.6,Bulanan,0
+CUST1170,36.0,Perempuan,Jakarta,Basic,0.83,260300.0,2603000.0,1,8.0,Virtual Account,04 February 2025,16.27,Indonesia,164.0,Bulanan,0
+CUST1267,,Laki-laki,Jakarta,Basic,49,254400.0,12465600.0,0,8.0,Transfer Bank,2021-11-22,15.9,Indonesia,43.2,Mingguan,0
+CUST1549,31.0,Laki-laki,,Standard,29,431200.0,12504800.0,1,8.0,E-Wallet,15/07/2023,26.95,Indonesia,126.5,Mingguan,0
+CUST1429,34.0,Perempuan,Makassar, BASIC,10,635400.0,6354000.0,0,8.0,Virtual Account,2025-02-04,39.71,Indonesia,156.9,Bulanan,0
+CUST1430,33.0,,Medan,Basic,26,244900.0,6367400.0,2,7.0,Transfer Bank,13 October 2023,15.31,Indonesia,241.7,Bulanan,0
+CUST1067,32.0,Perempuan,Bandung,premium,17,401200.0,6820400.0,1,7.0,Virtual Account,2024-07-09,25.08,Indonesia,873.2,Bulanan,0
+CUST1371,29.0,Perempuan,Jakarta,Premium,31,652200.0,20218200.0,1,9.0,Transfer Bank,16/05/2023,40.76,Indonesia,945.4,Bulanan,0
+CUST1103,45.0,Laki-laki,Bandung,Premium,24,665000.0,15960000.0,0,10.0,Kartu Kredit,2023-12-12,41.56,Indonesia,830.4,Bulanan,0
+CUST1468,41.0,Perempuan,JAKARTA,Basic,32,259900.0,8316800.0,2,7.0,Virtual Account,16 April 2023,16.24,Indonesia,172.1,Bulanan,0
+CUST1530,38.0,Laki-laki,Semarang,Standard,23,400800.0,9218400.0,2,tidak tahu,Transfer Bank,2024-01-11,25.05,Indonesia,567.8,Bulanan,0
+CUST1454,31.0,Laki-laki,Bandung,Basic,22,248000.0,5456000.0,1,7.0,E-Wallet,2024-02-10,15.5,Indonesia,282.8,Bulanan,1
+CUST1086,41.0,Laki-laki,SURABAYA,Basic,3,248300.0,744900.0,0,9.0,E-Wallet,2025-09-02,15.52,Indonesia,182.8,Bulanan,0
+CUST1450,18.0,,Yogyakarta,Basic,17,246300.0,4187100.0,2,7.0,E-Wallet,07-09-24,15.39,Indonesia,254.4,Bulanan,1
+CUST1359,24.0,Laki-laki,Surabaya,Standard,44,400100.0,17604400.0,2,6.0,E-Wallet,21 April 2022,25.01,Indonesia,467.2,Bulanan,1
+CUST1508,30.0,Perempuan,Bandung,Standard,72,392900.0,28288800.0,2,6.0,Transfer Bank,2020-01-02,24.56,Indonesia,78.5,Mingguan,0
+CUST1323,27.0,Laki-laki,Semarang,Basic,12,249500.0,2994000.0,0,7.0,E-Wallet,12-06-24,15.59,Indonesia,219.7,Bulanan,0
+CUST1509,18.0,P,Semarang,premium,5,419100.0,2095500.0,2,9.0,Transfer Bank,2025-07-04,26.19,Indonesia,218.3,Mingguan,0
+CUST1178,23.0,Laki-laki,Makassar,Basic,60,243000.0,14580000.0,0,8.0,E-Wallet,2020-12-27,15.19,Indonesia,263.3,Bulanan,0
+CUST1282,,Laki-laki,Jakarta,Standard,7,414100.0,2898700.0,2,6.0,E-Wallet,2025-05-05,25.88,Indonesia,544.5,Bulanan,0
+CUST1314,30.0,Laki-laki,Makassar,Basic,20,,5146000.0,1,6.0,Virtual Account,10/04/2024,16.08,Indonesia,214.0,Bulanan,1
+CUST1604,44.0,Laki-laki,Makassar,Standard,7,386800.0,2707600.0,2,5.0,Kartu Kredit,2025-05-05,24.18,Indonesia,101.2,Mingguan,0
+CUST1154,26.0,Perempuan,Medan,Basic,1.92,236900.0,5448700.0,1,8.0,transfer bank,2024-01-11,14.81,Indonesia,279.2,Bulanan,0
+CUST1272,,Perempuan,Yogyakarta,Basic,6,252600.0,1515600.0,2,6.0,E-Wallet,2025-06-04,15.79,Indonesia,262.8,Bulanan,0
+CUST1531,47.0,Perempuan,Makassar,premium,39,380300.0,14831700.0,2,8.0,E-Wallet,2022-09-18,23.77,Indonesia,766.4,Bulanan,0
+CUST1416,24.0,Laki-laki,Semarang,Basic,28,249600.0,6988800.0,2,7.0,E-Wallet,08-14-23,15.6,Indonesia,52.0,Mingguan,0
+CUST1374,19.0,Laki-laki,Yogyakarta, BASIC,4,243.2,972800.0,1,8.0,Transfer Bank,2025-08-03,15.2,Indonesia,216.0,Bulanan,1
+  cust1412@@,41.0,Laki-laki,Yogyakarta,Basic,31,250200.0,7756200.0,1,7.0,Kartu Kredit,2023-05-16,15.64,Indonesia,43.2,Mingguan,0
+CUST1311,41.0,Laki-laki,Makassar,Standard,8,404500.0,3236000.0,0,7.0,E-Wallet,2025-04-05,25.28,Indonesia,132.5,Mingguan,0
+CUST1477,46.0,Laki-laki,Makassar,Basic,39,245700.0,9582300.0,2,,transfer bank,2022-09-18,15.36,Indonesia,172.6,Bulanan,0
+CUST1146,33.0,Perempuan,Jakarta,Basic,8,250000.0,2000000.0,0,7.0,Kartu Kredit,2025-04-05,15.62,Indonesia,40.3,Mingguan,0
+CUST1395,37.0,Perempuan,Medan,Standard,27,396900.0,10716300.0,2,5.0,Kartu Kredit,13 September 2023,24.81,Indonesia,99.0,Mingguan,0
+CUST1238,41.0,Perempuan,Bandung,Basic,12,244900.0,2938800.0,1,8.0,E-Wallet,2024-12-06,15.31,Indonesia,51.3,Mingguan,0
+CUST1240,37.0,Perempuan,semarang ,premium,45,409300.0,18418500.0,2,6.0,Virtual Account,2022-03-22,25.58,Indonesia,1099.7,Bulanan,0
+CUST1209,25.0,Perempuan,Makassar,Basic,23,241.2,5547600.0,0,8.0,Virtual Account,11/01/2024,15.08,Indonesia,265.5,Bulanan,0
+CUST1287,30.0,Laki-laki,YOGYAKARTA,Premium,33,650800.0,644292000.0,1,7.0,Transfer Bank,17/03/2023,40.67,Indonesia,611.7,Bulanan,0
+CUST1527,30.0,Perempuan,Yogyakarta,Basic,21,227500.0,4777500.0,2,9.0,Transfer Bank,11/03/2024,14.22,Indonesia,236.4,Bulanan,0
+CUST1289,26.0,Perempuan,Semarang,Premium,4,642100.0,2568400.0,3,6.0,Transfer Bank,03/08/2025,40.13,Indonesia,272.0,Mingguan,0
+CUST1368,28.0,Perempuan,Yogyakarta,Premium,12,647900.0,7774800.0,2,8.0,Kartu Kredit,2024-12-06,40.49,Indonesia,834.0,Bulanan,0
+CUST1270,32.0,Laki-laki,Jakarta,Standard,16,420800.0,6732800.0,3,tidak tahu,Transfer Bank,2024-08-08,26.3,Indonesia,550.7,Bulanan,0
+CUST1082,34.0,Perempuan,Surabaya,Premium,27,633400.0,17101800.0,0,7.0,Kartu Kredit,2023-09-13,39.59,Indonesia,1040.8,Bulanan,0
+CUST1158,44.0,Perempuan,Jakarta,Standard,16,408.1,6529600.0,2,6.0,Transfer Bank,2024-08-08,25.51,Indonesia,569.3,Bulanan,0
+CUST1421,,Laki-laki,Surabaya,Standard,26,402000.0,10452000.0,1,5.0,Kartu Kredit,13 October 2023,25.12,Indonesia,381.9,Bulanan,1
+CUST1044,36.0,Perempuan,Jkt,Premium,6,657200.0,3943200.0,0,8.0,E-Wallet,04/06/2025,41.08,Indonesia,833.3,Bulanan,0
+CUST1124,27.0,Perempuan,Bandung,Standard,12,399700.0,4796400.0,2,7.0,,2024-12-06,24.98,Indonesia,539.4,Bulanan,0
+CUST1442,29.0,Perempuan,Makassar,Standard,44,402900.0,17727600.0,0,8.0,Kartu Kredit,21 April 2022,25.18,Indonesia,552.2,Bulanan,0
+CUST1493,,Perempuan,,Standard,50,391100.0,19555000.0,4,5.0,Transfer Bank,23/10/2021,24.44,Indonesia,594.2,Bulanan,0
+CUST1303,18.0,P,,Premium,15,643800.0,9657000.0,1,5.0,Transfer Bank,07/09/2024,40.24,Indonesia,1144.2,Bulanan,0
+CUST1174,47.0,Laki-laki,Yogyakarta,Premium,50,697000.0,34850000.0,2,6.0,Virtual Account,2021-10-23,43.56,Indonesia,232.8,Mingguan,0
+CUST1155,40.0,Perempuan,Jakarta,Standard,23,393100.0,9041300.0,1,7.0,Virtual Account,11/01/2024,24.57,Indonesia,428.6,Bulanan,0
+CUST1344,45.0,Perempuan,Semarang,Premium,39,676300.0,26375700.0,1,,,2022-09-18,42.27,Indonesia,165.4,Mingguan,0
+CUST1137,28.0,Laki-laki,Makassar,Premium,24,599800.0,14395200.0,2,8.0,Kartu Kredit,12-12-23,37.49,Indonesia,796.4,Bulanan,0
+CUST1532,,Perempuan,Jakarta,Standard,10,Rp369100,3691000.0,1,9.0,E-Wallet,2025-02-04,23.07,Indonesia,401.3,Bulanan,0
+CUST1543,33.0,P,Jakarta,Basic,6,257400.0,1544400.0,0,8.0,E-Wallet,2025-06-04,16.09,Indonesia,191.7,Bulanan,0
+CUST1098,35.0,Perempuan,Jakarta,Standard,19,397500.0,7552500.0,1,9.0,Virtual Account,10/05/2024,24.84,Indonesia,426.5,Bulanan,0
+CUST1046,40.0,Laki-laki,Surabaya,Basic,38,241.5,9177000.0,0,6.0,Kartu Kredit,10-18-22,15.09,Indonesia,220.5,Bulanan,0
+CUST1369,36.0,Laki-laki,Jakarta,Standard,24,399800.0,9595200.0,0,,Virtual Account,12/12/2023,24.99,Indonesia,315.6,Bulanan,0
+CUST1351,36.0,Laki-laki,Semarang,Premium,0.92,615500.0,6770500.0,0,8.0,E-Wallet,05/01/2025,38.47,Indonesia,171.4,Mingguan,0
+CUST1257,18.0,Laki-laki,Yogyakarta,Standard,50,390600.0,19530000.0,1,6.0,Virtual Account,23/10/2021,24.41,Indonesia,137.0,Mingguan,0
+CUST1168,37.0,Perempuan,Jakarta,Basic,14,235200.0,3292800.0,2,5.0,Virtual Account,2024-10-07,14.7,Indonesia,36.1,Mingguan,0
+CUST1520,18.0,Laki-laki,Semarang,Basic,17,236600.0,4022200.0,0,9.0,Transfer Bank,2024-07-09,14.79,Indonesia,275.9,Bulanan,0
+CUST1016,28.0,Perempuan,Surabaya,Standard,9,399400.0,3594600.0,0,8.0,Virtual Account,06/03/2025,24.96,Indonesia,371.6,Bulanan,0
+CUST1066,36.0,Perempuan,JAKARTA,Premium,10,715000.0,7150000.0,3,5.0,E-Wallet,02-04-25,44.69,Indonesia,668.6,Bulanan,0
+CUST1610,34.0,Perempuan,Yogyakarta,Standard,16,390000.0,6240000.0,1,99,Transfer Bank,08-08-24,24.38,Indonesia,102.5,Mingguan,0
+CUST1140,42.0,Laki-laki,Medan,Premium,19,665800.0,12650200.0,2,8.0,Virtual Account,10 May 2024,41.61,Indonesia,821.3,Bulanan,0
+CUST1196,27.0,Laki-laki,Yogyakarta,Standard,17,384500.0,6536500.0,1,8.0,Kartu Kredit,2024-07-09,24.03,Indonesia,589.1,Bulanan,0
+CUST1491,51 th,Perempuan,Surabaya,Premium,36,650400.0,23414400.0,2,5.0,Kartu Kredit,17 December 2022,40.65,Indonesia,248.9,Mingguan,0
+CUST1320,31.0,Laki-laki,makassar ,Standard,19,378200.0,7185800.0,1,8.0,Transfer Bank,10 May 2024,23.64,Indonesia,393.3,Bulanan,0
+CUST1522,29.0,Perempuan,Yogyakarta,Premium,22,675300.0,14856600.0,1,7.0,Kartu Kredit,2024-02-10,42.21,Indonesia,1157.3,Bulanan,0
+CUST1378,42.0,Perempuan,Jakarta,Basic,28,Rp258300,7232400.0,1,,Virtual Account,08-14-23,16.14,Indonesia,286.2,Bulanan,0
+CUST1022,35.0,Laki-laki,Medan,Basic,25,252400.0,6310000.0,1,9.0,E-Wallet,12 November 2023,15.78,Indonesia,67.9,Mingguan,0
+CUST1459,30.0,Perempuan,Jakarta,Basic,10,260800.0,2608000.0,3,5.0,Kartu Kredit,2025-02-04,16.3,Indonesia,238.8,Bulanan,0
+  cust1588@@,150,Perempuan,,Basic,16,264600.0,4233600.0,1,9.0,,2024-08-08,16.54,Indonesia,186.4,Bulanan,0
+CUST1123,20.0,Laki-laki,Bandung, BASIC,47,238900.0,11228300.0,0,10.0,Transfer Bank,2022-01-21,14.93,Indonesia,195.2,Bulanan,0
+CUST1426,41.0,Perempuan,Bandung, BASIC,26,396600.0,10311600.0,0,8.0,E-Wallet,13/10/2023,24.79,Indonesia,270.8,Bulanan,0
+CUST1121,31.0,Laki-laki,Makassar,Basic,7,266800.0,1867600.0,3,5.0,E-Wallet,2025-05-05,16.68,Indonesia,54.8,Mingguan,1
+CUST1243,48.0,Laki-laki,Surabaya,Standard,6,386800.0,2320800.0,1,8.0,E-Wallet,06-04-25,24.18,Indonesia,459.8,Bulanan,0
+CUST1504,,Perempuan,Jakarta,Basic,15,258.1,3871500.0,1,9.0,E-Wallet,2024-09-07,16.13,Indonesia,160.3,Bulanan,0
+CUST1036,43.0,Laki-laki,Surabaya,Premium,27,,16875000.0,1,7.0,Transfer Bank,2023-09-13,39.06,Indonesia,607.6,Bulanan,0
+CUST1402,,,Bandung,premium,12,240400.0,2884800.0,1,7.0,Kartu Kredit,06 December 2024,15.02,Indonesia,894.1,Bulanan,0
+CUST1453,29.0,Laki-laki,Medan,Premium,32,642700.0,20566400.0,1,8.0,E-Wallet,2023-04-16,40.17,Indonesia,817.3,Bulanan,0
+CUST1380,39.0,Laki-laki,Jakarta,Premium,27,679900.0,18357300.0,1,9.0,Kartu Kredit,13/09/2023,42.49,Indonesia,204.4,Mingguan,0
+CUST1327,38.0,Perempuan,Surabaya, BASIC,18,238400.0,4291200.0,1,7.0,E-Wallet,09 June 2024,14.9,Indonesia,176.4,Bulanan,0
+CUST1220,41.0,Laki-laki,Bandung,Standard,14,408200.0,5714800.0,1,6.0,E-Wallet,07/10/2024,25.51,Indonesia,495.1,Bulanan,0
+CUST1116,26.0,Laki-laki,Jakarta,premium,17,263400.0,4477800.0,2,7.0,E-Wallet,09/07/2024,16.46,Indonesia,1151.8,Bulanan,0
+CUST1264,33.0,Laki-laki,medan ,Basic,0.33,247800.0,991200.0,1,8.0,E-Wallet,2025-08-03,15.49,Indonesia,219.7,Bulanan,0
+  cust1172@@,50.0,Perempuan,Surabaya,Standard,38,398700.0,15150600.0,2,8.0,E-Wallet,2022-10-18,24.92,Indonesia,111.5,Mingguan,0
+CUST1501,34.0,Perempuan,Jakarta,Basic,17,245700.0,4176900.0,3,4.0,Transfer Bank,07-09-24,15.36,Indonesia,186.8,Bulanan,0
+CUST1437,23.0,Perempuan,Bandung,Standard,24,408100.0,9794400.0,1,6.0,E-Wallet,2023-12-12,25.51,Indonesia,383.7,Bulanan,0
+CUST1061,38.0,Perempuan,Bandung,Standard,10,408700.0,4087000.0,1,8.0,Transfer Bank,02-04-25,25.54,Indonesia,525.1,Bulanan,0
+CUST1197,32.0,,Jakarta,Premium,4,623300.0,2493200.0,0,8.0,Transfer Bank,03 August 2025,38.96,Indonesia,233.5,Mingguan,0
+CUST1490,,Perempuan,SURABAYA,Premium,25,,17072500.0,1,8.0,Virtual Account,2023-11-12,42.68,Indonesia,209.2,Mingguan,0
+CUST1298,21.0,Perempuan,Surabaya,Standard,5,409400.0,2047000.0,0,9.0,Transfer Bank,2025-07-04,25.59,Indonesia,446.3,Bulanan,0
+CUST1439,28.0,Laki-laki,Bandung,Standard,7,429400.0,3005800.0,0,8.0,Kartu Kredit,05/05/2025,26.84,Indonesia,88.1,Mingguan,0
+CUST1134,45.0,,Jakarta,Basic,28,239300.0,6700400.0,0,7.0,Virtual Account,14 August 2023,14.96,Indonesia,239.4,Bulanan,0
+CUST1276,39.0,Perempuan,jakarta ,Premium,14,642.5,8995000.0,2,5.0,Kartu Kredit,10-07-24,40.16,Indonesia,933.5,Bulanan,0
+CUST1032,22.0,Perempuan,Semarang, BASIC,8,397600.0,3180800.0,0,8.0,,05 April 2025,24.85,Indonesia,41.7,Mingguan,0
+CUST1619,38.0,Perempuan,Jakarta,Standard,6,412200.0,2473200.0,4,3.0,Kartu Kredit,04 June 2025,25.76,Indonesia,421.9,Bulanan,1
+CUST1422,33.0,Laki-laki,Medan,premium,17,387300.0,6584100.0,0,,Virtual Account,09/07/2024,24.21,Indonesia,744.2,Bulanan,0
+CUST1419,26.0,Laki-laki,Surabaya,Basic,31,261500.0,8106500.0,2,7.0,Transfer Bank,2023-05-16,16.34,Indonesia,256.8,Bulanan,0
+CUST1432,18.0,Laki-laki,Jakarta,Premium,6,639300.0,3835800.0,0,8.0,Virtual Account,04/06/2025,39.96,Indonesia,142.4,Mingguan,0
+CUST1466,36.0,Laki-laki,Bandung,Basic,12,232700.0,2792400.0,1,,Kartu Kredit,06/12/2024,14.54,Indonesia,49.2,Mingguan,1
+CUST1085,26.0,P,Medan,Basic,32,241600.0,7731200.0,0,9.0,Ewallet,16/04/2023,15.1,Indonesia,249.6,Bulanan,0
+CUST1565,18.0,L,Surabaya,Basic,48,260200.0,12489600.0,0,8.0,,22 December 2021,16.26,Indonesia,54.4,Mingguan,0
+CUST1265,50.0,Perempuan,Jakarta,Basic,60,241000.0,14460000.0,2,4.0,transfer bank,2020-12-27,15.06,Indonesia,299.5,Bulanan,1
+CUST1044,36.0,Perempuan,Jkt,Premium,6,657200.0,3943200.0,0,8.0,E-Wallet,04/06/2025,41.08,Indonesia,833.3,Bulanan,0
+CUST1125,54.0,Perempuan,Jakarta,Standard,18,385800.0,6944400.0,1,7.0,Virtual Account,2024-06-09,24.11,Indonesia,405.5,Bulanan,0
+CUST1228,38.0,Laki-laki,Surabaya,Premium,4.00,689700.0,33105600.0,1,8.0,,22 December 2021,43.11,Indonesia,182.9,Mingguan,0
+CUST1427,19.0,Perempuan,Jakarta,Basic,8,248700.0,1989600.0,3,5.0,Ewallet,05/04/2025,15.54,Indonesia,60.2,Mingguan,0
+CUST1285,40.0,Laki-laki,Makassar,Premium,23,630600.0,14503800.0,0,8.0,E-Wallet,11/01/2024,39.41,Indonesia,1045.7,Bulanan,0
+CUST1517,44.0,Laki-laki,Surabaya,Standard,24,399200.0,9580800.0,0,8.0,Transfer Bank,12 December 2023,24.95,Indonesia,118.3,Mingguan,0
+CUST1346,27.0,Perempuan,Surabaya,Standard,13,420100.0,5461300.0,0,8.0,Virtual Account,2024-11-06,26.26,Indonesia,121.7,Mingguan,0
+CUST1130,41.0,Laki-laki,Yogyakarta, BASIC,42,415900.0,17467800.0,0,7.0,transfer bank,20/06/2022,25.99,Indonesia,238.4,Bulanan,0
+CUST1367,46.0,Perempuan,Jakarta,Premium,30,673000.0,20190000.0,2,6.0,Transfer Bank,2023-06-15,42.06,Indonesia,904.3,Bulanan,0
+CUST1580,,Perempuan,Medan,Standard,16,378900.0,181872000.0,0,7.0,Transfer Bank,2024-08-08,23.68,Indonesia,479.0,Bulanan,0
+CUST1023,,Laki-laki,JAKARTA,Basic,10,245400.0,2454000.0,0,9.0,Transfer Bank,2025-02-04,15.34,Indonesia,64.1,Mingguan,0
+CUST1015,39.0,Laki-laki,Makassar,Premium,21,662.7,13916700.0,1,7.0,E-Wallet,2024-03-11,41.42,Indonesia,190.5,Mingguan,0
+CUST1596,,Laki-laki,Semarang,Basic,19,250800.0,4765200.0,1,7.0,E-Wallet,05-10-24,15.68,Indonesia,59.8,Mingguan,0
+CUST1214,37.0,Perempuan,Jakarta,Basic,13,245700.0,3194100.0,5,3.0,E-Wallet,06/11/2024,15.36,Indonesia,36.6,Mingguan,1
+CUST1444,42.0,Laki-laki,Bandung,Standard,36,396200.0,14263200.0,1,7.0,E-Wallet,12-17-22,24.76,Indonesia,387.6,Bulanan,0
+  cust1055@@,21.0,Laki-laki,Medan,premium,26,253500.0,6591000.0,0,8.0,Kartu Kredit,10-13-23,15.84,Indonesia,982.7,Bulanan,0
+CUST1194,,L,Medan,Basic,13,,3178500.0,1,8.0,Kartu Kredit,2024-11-06,15.28,Indonesia,38.6,Mingguan,0
+CUST1597,37.0,Laki-laki,Bandung,Basic,1.00,249800.0,2997600.0,1,7.0,Virtual Account,06/12/2024,15.61,Indonesia,192.7,Bulanan,0
+CUST1165,18.0,Laki-laki,Jakarta,Premium,14,641200.0,8976800.0,1,7.0,Kartu Kredit,07/10/2024,40.08,Indonesia,804.4,Bulanan,0
+CUST1063,27.0,Perempuan,Jkt,Standard,7,405500.0,2838500.0,1,8.0,Kartu Kredit,2025-05-05,25.34,Indonesia,375.7,Bulanan,0
+CUST1065,27.0,P,Yogyakarta,Premium,33,,22182600.0,2,5.0,E-Wallet,2023-03-17,42.01,Indonesia,156.0,Mingguan,0
+CUST1118,53.0,Perempuan,Jakarta,Premium,44,645400.0,28397600.0,0,10.0,Virtual Account,2022-04-21,40.34,Indonesia,895.0,Bulanan,0
+CUST1256,36.0,Perempuan,Bandung,Basic,5,238300.0,1191500.0,1,8.0,Transfer Bank,2025-07-04,14.89,Indonesia,59.0,Mingguan,0
+CUST1290,41.0,Perempuan,Bandung,Basic,5,248700.0,1243500.0,2,7.0,transfer bank,04 July 2025,15.54,Indonesia,271.7,Bulanan,0
+CUST1563,21.0,Perempuan,Semarang,Standard,40,420800.0,16832000.0,3,6.0,Virtual Account,2022-08-19,26.3,Indonesia,76.0,Mingguan,1
+CUST1215,21.0,Laki-laki,Bandung,Basic,28,245500.0,6874000.0,1,8.0,Kartu Kredit,2023-08-14,15.34,Indonesia,233.7,Bulanan,0
+CUST1425,50.0,L,Jakarta,Standard,6,407300.0,2443800.0,1,9.0,Transfer Bank,04/06/2025,25.46,Indonesia,478.8,Bulanan,0
+CUST1053,35.0,Perempuan,Surabaya,Standard,4,392600.0,1570400.0,2,7.0,Transfer Bank,03/08/2025,24.54,Indonesia,532.7,Bulanan,1
+CUST1584,36.0,Laki-laki,Bandung,Basic,22,258800.0,5693600.0,2,5.0,Kartu Kredit,2024-02-10,16.18,Indonesia,66.8,Mingguan,1
+CUST1049,37.0,L,Surabaya,Basic,12,260300.0,3123600.0,1,7.0,E-Wallet,06/12/2024,16.27,Indonesia,238.3,Bulanan,0
+CUST1399,47.0,Laki-laki,Medan,Premium,20,626400.0,12528000.0,0,8.0,Transfer Bank,2024-04-10,39.15,Indonesia,219.6,Mingguan,0
+CUST1011,28.0,Perempuan,Yogyakarta,Standard,14,388200.0,5434800.0,2,6.0,E-Wallet,07 October 2024,24.26,Indonesia,137.2,Mingguan,0
+CUST1480,33.0,Laki-laki,Jakarta,Standard,24,,9638400.0,1,,E-Wallet,2023-12-12,25.1,Indonesia,528.8,Bulanan,0
+CUST1064,35.0,Laki-laki,Yogyakarta,Standard,13,393100.0,5110300.0,0,9.0,Transfer Bank,06/11/2024,24.57,Indonesia,88.5,Mingguan,0
+CUST1331,20.0,P,Makassar,Basic,13,252000.0,3276000.0,1,7.0,Virtual Account,2024-11-06,15.75,Indonesia,186.0,Bulanan,1
+CUST1575,32.0,Laki-laki,Jakarta,Premium,20,662200.0,13244000.0,3,7.0,Transfer Bank,10 April 2024,41.39,Indonesia,693.9,Bulanan,0
+CUST1097,25.0,Laki-laki,Yogyakarta,Standard,19,398000.0,7562000.0,0,8.0,Transfer Bank,2024-05-10,24.88,Indonesia,506.8,Bulanan,0
+  cust1360@@,41.0,Perempuan,Medan,Premium,-12,639300.0,19818300.0,0,10.0,Ewallet,2023-05-16,39.96,Indonesia,144.6,Mingguan,0
+CUST1546,21.0,Perempuan,Jakarta,premium,28,259400.0,7263200.0,1,7.0,Transfer Bank,2023-08-14,16.21,Indonesia,769.6,Bulanan,0
+CUST1254,36.0,Laki-laki,Medan,Standard,3.33,369100.0,14764000.0,0,8.0,Kartu Kredit,19/08/2022,23.07,Indonesia,75.0,Mingguan,0
+CUST1606,24.0,Perempuan,yogyakarta ,Standard,3,394500.0,1183500.0,3,5.0,Transfer Bank,02/09/2025,24.66,Indonesia,379.4,Bulanan,0
+CUST1274,34.0,Laki-laki,Surabaya,Standard,15,390300.0,5854500.0,2,6.0,E-Wallet,2024-09-07,24.39,Indonesia,476.9,Bulanan,0
+CUST1560,35.0,Laki-laki,Makassar, BASIC,23,247700.0,5697100.0,0,6.0,Virtual Account,01-11-24,15.48,Indonesia,41.9,Mingguan,0
+CUST1589,24.0,Laki-laki,Bandung,Standard,32,,12496000.0,3,4.0,Virtual Account,16/04/2023,24.41,Indonesia,85.7,Mingguan,0
+CUST1099,32.0,Perempuan,Surabaya,Basic,63,250900.0,15806700.0,0,7.0,E-Wallet,28/09/2020,15.68,Indonesia,44.3,Mingguan,0
+CUST1498,18.0,Laki-laki,Jakarta,Standard,9,390500.0,3514500.0,1,7.0,Transfer Bank,2025-03-06,24.41,Indonesia,317.9,Bulanan,0
+CUST1581,28.0,Perempuan,Jakarta,Standard,21,398200.0,8362200.0,2,,Transfer Bank,2024-03-11,24.89,Indonesia,478.5,Bulanan,0
+CUST1029,36 th,Perempuan,Bandung,Basic,70,252300.0,17661000.0,2,3.0,Transfer Bank,2020-03-02,15.77,Indonesia,288.2,Bulanan,0
+CUST1145,33.0,,Jakarta,Standard,14,401000.0,5614000.0,2,8.0,Transfer Bank,2024-10-07,25.06,Indonesia,102.8,Mingguan,0
+CUST1018,41.0,Laki-laki,Jkt, BASIC,10,Rp252100,2521000.0,0,8.0,Virtual Account,04/02/2025,15.76,Indonesia,49.1,Mingguan,0
+CUST1364,49.0,Laki-laki,Yogyakarta,Basic,8,234700.0,1877600.0,3,6.0,,05/04/2025,14.67,Indonesia,231.0,Bulanan,0
+CUST1536,30.0,Laki-laki,Surabaya,Basic,29,230800.0,6693200.0,1,6.0,Transfer Bank,15 July 2023,14.42,Indonesia,239.7,Bulanan,0
+CUST1423,46.0,Perempuan,Makassar,Standard,11,407400.0,4481400.0,1,6.0,Ewallet,05 January 2025,25.46,Indonesia,520.4,Bulanan,0
+CUST1184,18.0,P,Jakarta,Basic,21,242.9,5100900.0,1,6.0,Transfer Bank,11 March 2024,15.18,Indonesia,35.9,Mingguan,0
+CUST1088,40.0,Perempuan,Surabaya,Standard,39,405.4,15810600.0,0,8.0,E-Wallet,09-18-22,25.34,Indonesia,502.3,Bulanan,0
+CUST1329,42.0,,Makassar,Basic,15,243000.0,3645000.0,2,7.0,E-Wallet,2024-09-07,15.19,Indonesia,55.6,Mingguan,0
+CUST1176,43.0,Laki-laki,Makassar,Basic,8,260500.0,2084000.0,2,6.0,Kartu Kredit,05/04/2025,16.28,Indonesia,264.7,Bulanan,0
+CUST1291,40.0,Laki-laki,Bandung,Basic,11,245200.0,2697200.0,1,6.0,E-Wallet,01-05-25,15.32,Indonesia,236.4,Bulanan,1
+CUST1354,35.0,Perempuan,Jakarta,Standard,13,394400.0,5127200.0,0,8.0,transfer bank,06/11/2024,24.65,Indonesia,352.6,Bulanan,0
+CUST1268,40.0,Laki-laki,Makassar,Standard,15,389600.0,5844000.0,0,9.0,E-Wallet,07 September 2024,24.35,Indonesia,101.0,Mingguan,0
+CUST1087,42 th,Laki-laki,Medan,Standard,8,Rp410900,3287200.0,1,8.0,Transfer Bank,05/04/2025,25.68,Indonesia,599.1,Bulanan,0
+CUST1009,41.0,Laki-laki,Bandung,Basic,21,,5405400.0,0,10.0,E-Wallet,2024-03-11,16.09,Indonesia,272.1,Bulanan,0
+CUST1281,41.0,Perempuan,Jakarta,Premium,14,663800.0,9293200.0,2,8.0,Virtual Account,2024-10-07,41.49,Indonesia,882.0,Bulanan,1
+CUST1601,23.0,Laki-laki,SEMARANG,Premium,7,666300.0,4664100.0,0,8.0,E-Wallet,2025-05-05,41.64,Indonesia,184.9,Mingguan,0
+CUST1157,,Perempuan,Bandung,Standard,17,396300.0,6737100.0,2,99,Virtual Account,2024-07-09,24.77,Indonesia,348.2,Bulanan,0
+CUST1521,46.0,Laki-laki,Yogyakarta,Premium,24,Rp629200,15100800.0,0,8.0,Transfer Bank,12/12/2023,39.33,Indonesia,897.3,Bulanan,0
+CUST1612,45.0,Perempuan,Makassar,Basic,11,238600.0,2624600.0,1,7.0,Transfer Bank,05/01/2025,14.91,Indonesia,210.1,Bulanan,0
+CUST1573,40.0,Laki-laki,Surabaya,Basic,20,256000.0,5120000.0,1,9.0,transfer bank,2024-04-10,16.0,Indonesia,36.3,Mingguan,0
+CUST1302,37.0,Laki-laki,Jakarta,Premium,35,663500.0,23222500.0,1,8.0,Virtual Account,01-16-23,41.47,Indonesia,175.3,Mingguan,0
+CUST1558,18.0,Perempuan,Surabaya,Basic,16,244600.0,3913600.0,1,8.0,E-Wallet,08 August 2024,15.29,Indonesia,265.9,Bulanan,0
+CUST1035,51.0,Perempuan,Yogyakarta,Basic,22,244600.0,5381200.0,0,8.0,Virtual Account,10 February 2024,15.29,Indonesia,63.9,Mingguan,0
+CUST1212,22.0,Perempuan,Jakarta,Basic,23,Rp230800,5308400.0,1,5.0,transfer bank,2024-01-11,14.42,Indonesia,280.4,Bulanan,0
+CUST1232,58.0,Laki-laki,Makassar,Standard,26,408600.0,10623600.0,0,10.0,Virtual Account,2023-10-13,25.54,Indonesia,316.3,Bulanan,0
+CUST1305,34 th,Laki-laki,Bandung,Standard,43,419400.0,18034200.0,3,6.0,Virtual Account,05-21-22,26.21,Indonesia,486.8,Bulanan,0
+CUST1251,32.0,Laki-laki,Jakarta, BASIC,41,411.9,16887900.0,1,8.0,Virtual Account,07-20-22,25.74,Indonesia,50.5,Mingguan,0
+CUST1230,34.0,Perempuan,Jakarta,Standard,50,388000.0,19400000.0,2,6.0,Transfer Bank,10-23-21,24.25,Indonesia,88.7,Mingguan,1
+CUST1202,33.0,L,Jakarta,Basic,25,238900.0,5972500.0,2,5.0,E-Wallet,2023-11-12,14.93,Indonesia,193.2,Bulanan,0
+CUST1181,45.0,Perempuan,SEMARANG,Standard,34,392200.0,13334800.0,0,8.0,E-Wallet,15 February 2023,24.51,Indonesia,103.9,Mingguan,0
+CUST1095,29.0,Laki-laki,Medan,Standard,33,394000.0,13002000.0,1,7.0,E-Wallet,17 March 2023,24.62,Indonesia,489.0,Bulanan,0
+CUST1324,35.0,Perempuan,Surabaya,Basic,19,249600.0,4742400.0,2,5.0,Virtual Account,10/05/2024,15.6,Indonesia,59.9,Mingguan,0
+CUST1236,45.0,Laki-laki,Bandung,Premium,20,641500.0,12830000.0,1,6.0,Kartu Kredit,10/04/2024,40.09,Indonesia,608.2,Bulanan,0
+CUST1078,20 th,L,Jkt,Standard,16,384300.0,6148800.0,0,8.0,Virtual Account,08/08/2024,24.02,Indonesia,367.4,Bulanan,0
+CUST1567,28.0,Perempuan,medan ,Standard,27,388.1,10478700.0,0,8.0,Transfer Bank,13 September 2023,24.26,Indonesia,334.0,Bulanan,0
+CUST1529,40.0,Laki-laki,Yogyakarta,Standard,27,383400.0,10351800.0,0,8.0,E-Wallet,09-13-23,23.96,Indonesia,115.3,Mingguan,0
+CUST1169,28.0,Perempuan,Surabaya,Standard,37,423000.0,15651000.0,0,6.0,Kartu Kredit,17/11/2022,26.44,Indonesia,135.3,Mingguan,0
+  cust1475@@,38.0,L,Makassar,Basic,2,Rp257700,515400.0,1,7.0,E-Wallet,2025-10-02,16.11,Indonesia,255.8,Bulanan,0
+CUST1219,37.0,Laki-laki,Jakarta,Standard,18,402900.0,7252200.0,1,8.0,Ewallet,09 June 2024,25.18,Indonesia,444.7,Bulanan,0
+CUST1249,39.0,Laki-laki,Jakarta,Standard,22,392200.0,8628400.0,1,7.0,E-Wallet,10/02/2024,24.51,Indonesia,102.0,Mingguan,0
+CUST1375,18.0,Laki-laki,Jakarta,premium,7,Rp406600,2846200.0,1,9.0,E-Wallet,2025-05-05,25.41,Indonesia,714.4,Bulanan,0
+CUST1533,35.0,Laki-laki,yogyakarta ,Premium,13,648100.0,8425300.0,1,6.0,Virtual Account,2024-11-06,40.51,Indonesia,244.5,Mingguan,0
+CUST1144,54.0,Perempuan,Yogyakarta,Premium,60,631600.0,37896000.0,2,9.0,Virtual Account,27/12/2020,39.48,Indonesia,641.9,Bulanan,0
+CUST1143,31.0,Laki-laki,Bandung,Standard,3,,1163700.0,0,8.0,Kartu Kredit,09-02-25,24.24,Indonesia,129.8,Mingguan,0
+  cust1384@@,52.0,Perempuan,Surabaya,Standard,6,Rp387800,2326800.0,2,7.0,E-Wallet,2025-06-04,24.24,Indonesia,125.1,Mingguan,0
+CUST1511,34.0,Perempuan,Surabaya,Premium,9,655400.0,5898600.0,1,9.0,E-Wallet,2025-03-06,40.96,Indonesia,601.5,Bulanan,0
+CUST1005,40.0,Perempuan,Semarang,Standard,25,405300.0,10132500.0,0,,Transfer Bank,12/11/2023,25.33,Indonesia,551.2,Bulanan,0
+CUST1413,38.0,Perempuan,Medan,Standard,10,393200.0,3932000.0,1,6.0,E-Wallet,2025-02-04,24.58,Indonesia,498.0,Bulanan,0
+CUST1107,43.0,L,Makassar,Standard,31,396400.0,12288400.0,0,,Kartu Kredit,16/05/2023,24.78,Indonesia,434.0,Bulanan,0
+CUST1489,,Perempuan,Jakarta,premium,7,258500.0,1809500.0,3,4.0,Transfer Bank,05 May 2025,16.16,Indonesia,799.5,Bulanan,1
+CUST1284,35.0,Perempuan,Makassar,Basic,16,249600.0,3993600.0,1,10.0,Virtual Account,2024-08-08,15.6,Indonesia,206.6,Bulanan,0
+CUST1091,,Perempuan,JAKARTA,Premium,43,630000.0,27090000.0,0,8.0,Virtual Account,05-21-22,39.38,Indonesia,1121.8,Bulanan,0
+  cust1193@@,49.0,Laki-laki,surabaya ,Basic,14,240100.0,3361400.0,1,6.0,Kartu Kredit,07/10/2024,15.01,Indonesia,185.8,Bulanan,0
+CUST1006,18.0,Laki-laki,Yogyakarta,Basic,16,241700.0,3867200.0,2,5.0,Transfer Bank,08/08/2024,15.11,Indonesia,278.4,Bulanan,0
+CUST1074,18.0,Perempuan,Makassar,Standard,19,391400.0,7436600.0,3,6.0,Kartu Kredit,10/05/2024,24.46,Indonesia,395.5,Bulanan,0
+CUST1503,34.0,Perempuan,Bandung,Basic,37,241700.0,8942900.0,0,9.0,E-Wallet,2022-11-17,15.11,Indonesia,287.0,Bulanan,0
+CUST1242,20.0,Laki-laki,Yogyakarta,Basic,31,244200.0,7570200.0,1,7.0,E-Wallet,2023-05-16,15.26,Indonesia,298.3,Bulanan,1
+CUST1275,37.0,Perempuan,Surabaya,Premium,5,667.3,3336500.0,0,9.0,Transfer Bank,2025-07-04,41.71,Indonesia,231.3,Mingguan,0
+CUST1076,42.0,Laki-laki,Jkt,Standard,2.75,391900.0,12932700.0,3,6.0,Virtual Account,2023-03-17,24.49,Indonesia,137.5,Mingguan,0
+CUST1334,41.0,Perempuan,Semarang,Standard,11,404200.0,4446200.0,0,9.0,Kartu Kredit,01-05-25,25.26,Indonesia,137.6,Mingguan,0
+CUST1199,31.0,Perempuan,Bandung,Premium,72,648000.0,46656000.0,3,5.0,,02/01/2020,40.5,Indonesia,660.2,Bulanan,0
+CUST1617,28.0,Perempuan,semarang ,Basic,6,243100.0,1458600.0,2,5.0,Kartu Kredit,2025-06-04,15.19,Indonesia,165.0,Bulanan,1
+CUST1138,23.0,P,Bandung,Premium,21,663300.0,13929300.0,1,6.0,Kartu Kredit,03-11-24,41.46,Indonesia,142.1,Mingguan,0
+CUST1223,36.0,,Surabaya,Basic,27,241600.0,6523200.0,1,7.0,Virtual Account,2023-09-13,15.1,Indonesia,280.6,Bulanan,0
+CUST1467,58.0,Laki-laki,Medan,Basic,6,251900.0,1511400.0,2,7.0,Virtual Account,06-04-25,15.74,Indonesia,161.2,Bulanan,0
+CUST1551,26.0,Laki-laki,Jakarta,Standard,33,405100.0,13368300.0,1,5.0,E-Wallet,2023-03-17,25.32,Indonesia,379.5,Bulanan,0
+CUST1229,35.0,Perempuan,Makassar,Basic,12,247300.0,2967600.0,2,7.0,Transfer Bank,2024-12-06,15.46,Indonesia,48.9,Mingguan,0
+CUST1464,29.0,Perempuan,Jakarta,Basic,21,253700.0,159831000.0,0,6.0,Transfer Bank,2024-03-11,15.86,Indonesia,199.3,Bulanan,0
+CUST1578,27.0,Perempuan,Jakarta,Basic,33,,8121300.0,0,9.0,Transfer Bank,17/03/2023,15.38,Indonesia,230.0,Bulanan,0
+CUST1299,58.0,Perempuan,semarang ,Premium,30,625900.0,18777000.0,2,6.0,Transfer Bank,15/06/2023,39.12,Indonesia,976.1,Bulanan,1
+CUST1373,38.0,Perempuan,Surabaya,Standard,0.50,412900.0,2477400.0,1,6.0,Transfer Bank,04/06/2025,25.81,Indonesia,446.4,Bulanan,0
+CUST1328,40.0,Laki-laki,Makassar,Premium,9,623400.0,5610600.0,1,,E-Wallet,06/03/2025,38.96,Indonesia,226.4,Mingguan,0
+CUST1261,37.0,Perempuan,Surabaya,Standard,7,394900.0,2764300.0,4,5.0,Transfer Bank,05-05-25,24.68,Indonesia,117.9,Mingguan,0
+CUST1013,19.0,Perempuan,SEMARANG,Standard,37,396400.0,14666800.0,3,7.0,Kartu Kredit,11-17-22,24.78,Indonesia,85.9,Mingguan,0
+CUST1564,28.0,Laki-laki,Bandung,Standard,21,393300.0,8259300.0,2,7.0,E-Wallet,2024-03-11,24.58,Indonesia,593.5,Bulanan,1
+CUST1129,35.0,L,Surabaya,Premium,5,635200.0,3176000.0,2,6.0,Transfer Bank,07-04-25,39.7,Indonesia,238.5,Mingguan,0
+CUST1577,50.0,Perempuan,Jakarta,Basic,28,245700.0,6879600.0,0,9.0,E-Wallet,14 August 2023,15.36,Indonesia,40.8,Mingguan,0
+CUST1428,27.0,Laki-laki,Yogyakarta, BASIC,26,654400.0,17014400.0,1,,Kartu Kredit,13/10/2023,40.9,Indonesia,36.0,Mingguan,0
+CUST1448,-5,Laki-laki,Medan,Basic,37,251800.0,9316600.0,1,6.0,E-Wallet,17 November 2022,15.74,Indonesia,249.6,Bulanan,0
+CUST1112,25.0,Laki-laki,Medan,Standard,27,396200.0,10697400.0,1,7.0,E-Wallet,13 September 2023,24.76,Indonesia,316.8,Bulanan,0
+CUST1524,25 th,Perempuan,Bandung,Standard,24,405700.0,9736800.0,3,,Transfer Bank,2023-12-12,25.36,Indonesia,100.1,Mingguan,0
+CUST1231,18.0,Perempuan,Jakarta,Premium,20,595700.0,11914000.0,1,7.0,E-Wallet,10/04/2024,37.23,Indonesia,847.2,Bulanan,0
+CUST1502,44.0,Laki-laki,Makassar,Premium,51,643600.0,32823600.0,1,8.0,Kartu Kredit,2021-09-23,40.22,Indonesia,165.2,Mingguan,0
+CUST1204,46.0,,Semarang,Basic,30,256.4,7692000.0,0,8.0,E-Wallet,2023-06-15,16.02,Indonesia,241.4,Bulanan,0
+CUST1443,34.0,Perempuan,Surabaya,Premium,40,669300.0,26772000.0,2,5.0,Ewallet,19/08/2022,41.83,Indonesia,1009.9,Bulanan,0
+CUST1486,46.0,Laki-laki,Jakarta,Basic,34,252600.0,8588400.0,0,7.0,E-Wallet,15 February 2023,15.79,Indonesia,55.4,Mingguan,0
+CUST1333,28.0,,Medan,Standard,1.25,391300.0,5869500.0,0,8.0,E-Wallet,2024-09-07,24.46,Indonesia,491.4,Bulanan,0
+CUST1254,36.0,Laki-laki,Medan,Standard,3.33,369100.0,14764000.0,0,8.0,Kartu Kredit,19/08/2022,23.07,Indonesia,75.0,Mingguan,0
+CUST1497,34.0,Perempuan,Bandung,Standard,29,406800.0,11797200.0,0,10.0,Transfer Bank,2023-07-15,25.42,Indonesia,500.1,Bulanan,0
+CUST1340,48.0,P,Yogyakarta,Standard,40,413400.0,16536000.0,3,7.0,Kartu Kredit,19/08/2022,25.84,Indonesia,102.6,Mingguan,0
+CUST1451,47.0,Perempuan,Jakarta,Premium,56,657900.0,36842400.0,0,,Virtual Account,26 April 2021,41.12,Indonesia,216.5,Mingguan,0
+CUST1462,44.0,Laki-laki,Yogyakarta,Standard,30,390800.0,11724000.0,2,7.0,E-Wallet,2023-06-15,24.42,Indonesia,583.6,Bulanan,0
+CUST1598,44.0,Laki-laki,Yogyakarta,Premium,72,648900.0,46720800.0,2,6.0,Virtual Account,02 January 2020,40.56,Indonesia,779.5,Bulanan,0
+CUST1557,19.0,Laki-laki,Jakarta,Standard,28,397800.0,11138400.0,4,6.0,Transfer Bank,14 August 2023,24.86,Indonesia,507.1,Bulanan,0
+CUST1455,33.0,Perempuan,jakarta ,premium,12,245400.0,2944800.0,2,6.0,Virtual Account,06/12/2024,15.34,Indonesia,781.3,Bulanan,0
+CUST1335,47.0,Perempuan,Bandung,Basic,27,250300.0,6758100.0,3,4.0,Virtual Account,2023-09-13,15.64,Indonesia,64.9,Mingguan,1
+CUST1151,24.0,Perempuan,Bandung,Standard,25,403900.0,10097500.0,40,8.0,Virtual Account,2023-11-12,25.24,Indonesia,414.4,Bulanan,0
+CUST1345,27.0,Perempuan,surabaya ,Standard,27,417100.0,11261700.0,0,7.0,E-Wallet,2023-09-13,26.07,Indonesia,388.8,Bulanan,0
+CUST1075,,Laki-laki,Medan,Premium,39,630.9,24605100.0,2,7.0,E-Wallet,2022-09-18,39.43,Indonesia,613.2,Bulanan,0
+CUST1309,33.0,Perempuan,Jakarta,Standard,-12,403500.0,11701500.0,2,4.0,Virtual Account,2023-07-15,25.22,Indonesia,97.7,Mingguan,0
+CUST1301,46.0,Laki-laki,Bandung,Standard,0.17,408100.0,816200.0,3,7.0,E-Wallet,2025-10-02,25.51,Indonesia,559.5,Bulanan,0
+CUST1114,40.0,Perempuan,Jakarta,Basic,35,250.2,8757000.0,1,6.0,Virtual Account,16 January 2023,15.64,Indonesia,296.0,Bulanan,0
+CUST1406,27.0,Laki-laki,Bandung,Standard,23,407100.0,9363300.0,1,9.0,,11/01/2024,25.44,Indonesia,523.6,Bulanan,0
+CUST1313,30.0,Laki-laki,Makassar,Premium,70,648600.0,45402000.0,2,7.0,Virtual Account,02/03/2020,40.54,Indonesia,1141.8,Bulanan,0
+CUST1483,34.0,Perempuan,Surabaya,Premium,28,,18779600.0,2,6.0,Transfer Bank,2023-08-14,41.92,Indonesia,738.1,Bulanan,0
+CUST1366,35.0,Laki-laki,,Basic,29,246600.0,7151400.0,1,9.0,Ewallet,07-15-23,15.41,Indonesia,42.7,Mingguan,0
+CUST1218,46.0,Perempuan,Surabaya,Standard,6,414000.0,2484000.0,0,10.0,Virtual Account,2025-06-04,25.88,Indonesia,375.2,Bulanan,0
+CUST1438,42.0,Perempuan,Bandung,Basic,12,248700.0,2984400.0,1,4.0,E-Wallet,06/12/2024,15.54,Indonesia,265.1,Bulanan,1
+CUST1379,33.0,Perempuan,Medan,Standard,1,409200.0,409200.0,1,8.0,E-Wallet,2025-11-01,25.58,Indonesia,79.6,Mingguan,0
+CUST1523,27 th,Perempuan,Surabaya,Basic,30,250.8,7524000.0,2,7.0,E-Wallet,15/06/2023,15.68,Indonesia,57.0,Mingguan,0
+CUST1175,,,Jakarta,Standard,8,,3107200.0,2,7.0,E-Wallet,04-05-25,24.28,Indonesia,125.2,Mingguan,0
+CUST1410,41.0,Perempuan,Jakarta,Basic,29,237300.0,6881700.0,1,8.0,Kartu Kredit,2023-07-15,14.83,Indonesia,47.8,Mingguan,0
+CUST1219,37.0,Laki-laki,Jakarta,Standard,18,402900.0,7252200.0,1,8.0,Ewallet,09 June 2024,25.18,Indonesia,444.7,Bulanan,0
+  cust1492@@,35.0,Laki-laki,Semarang,Standard,25,407300.0,10182500.0,1,6.0,Virtual Account,12/11/2023,25.46,Indonesia,133.7,Mingguan,0
+CUST1079,19.0,Laki-laki,Bandung,Standard,28,390700.0,10939600.0,1,7.0,Kartu Kredit,2023-08-14,24.42,Indonesia,99.1,Mingguan,0
+CUST1561,30.0,Laki-laki,bandung ,Standard,49,374200.0,18335800.0,0,5.0,Ewallet,2021-11-22,23.39,Indonesia,536.0,Bulanan,0
+CUST1252,21.0,Perempuan,Jakarta,Standard,37,408500.0,15114500.0,40,6.0,Virtual Account,2022-11-17,25.53,Indonesia,409.8,Bulanan,0
+CUST1048,43.0,,SEMARANG,Premium,26,Rp625900,16273400.0,1,9.0,E-Wallet,2023-10-13,39.12,Indonesia,178.2,Mingguan,0
+CUST1191,45.0,Laki-laki,Surabaya,Premium,17,652800.0,11097600.0,2,6.0,Kartu Kredit,07-09-24,40.8,Indonesia,1148.4,Bulanan,0
+CUST1582,36.0,Perempuan,Jakarta,Premium,34,629000.0,21386000.0,1,8.0,Kartu Kredit,15 February 2023,39.31,Indonesia,275.4,Mingguan,0
+CUST1017,38.0,Perempuan,Bandung,Standard,52,414500.0,21554000.0,0,8.0,Transfer Bank,08-24-21,25.91,Indonesia,561.1,Bulanan,0
+CUST1572,32.0,Perempuan,Medan,Standard,6,387900.0,2327400.0,0,6.0,Transfer Bank,2025-06-04,24.24,Indonesia,102.8,Mingguan,1
+CUST1128,28.0,Laki-laki,Surabaya, BASIC,19,395300.0,7510700.0,0,10.0,Transfer Bank,10/05/2024,24.71,Indonesia,61.4,Mingguan,0
+CUST1571,54.0,Laki-laki,Yogyakarta,Basic,37,255200.0,9442400.0,0,9.0,,17 November 2022,15.95,Indonesia,251.4,Bulanan,0
+CUST1192,39.0,Perempuan,Surabaya,Premium,21,694500.0,14584500.0,5,3.0,Transfer Bank,2024-03-11,43.41,Indonesia,838.4,Bulanan,1
+CUST1376,44.0,Laki-laki,Makassar,Premium,10,655600.0,6556000.0,0,7.0,E-Wallet,2025-02-04,40.98,Indonesia,218.0,Mingguan,0
+CUST1535,,Laki-laki,Jakarta, BASIC,25,243.7,6092500.0,2,,E-Wallet,2023-11-12,15.23,Indonesia,48.8,Mingguan,0
+CUST1105,34.0,Perempuan,Jakarta,Premium,62,654800.0,40597600.0,1,8.0,E-Wallet,28/10/2020,40.92,Indonesia,674.2,Bulanan,0
+CUST1377,,Perempuan,Bandung,Basic,31,238000.0,7378000.0,2,7.0,Transfer Bank,16 May 2023,14.88,Indonesia,61.2,Mingguan,0
+CUST1149,39.0,Perempuan,Jakarta,Standard,32,396500.0,12688000.0,1,tidak tahu,Transfer Bank,16 April 2023,24.78,Indonesia,414.3,Bulanan,0
+CUST1198,31.0,P,Bandung,Basic,6,238100.0,1428600.0,2,8.0,E-Wallet,04/06/2025,14.88,Indonesia,205.7,Bulanan,0
+CUST1201,30.0,Laki-laki,Medan,Standard,20,401400.0,8028000.0,0,,E-Wallet,10 April 2024,25.09,Indonesia,441.4,Bulanan,0
+CUST1516,42.0,Perempuan,Surabaya,Standard,21,394200.0,8278200.0,0,6.0,Transfer Bank,03-11-24,24.64,Indonesia,136.0,Mingguan,1
+CUST1059,31.0,Laki-laki,Semarang,Basic,1,244100.0,244100.0,0,10.0,Transfer Bank,01/11/2025,15.26,Indonesia,241.5,Bulanan,0
+CUST1540,33.0,Perempuan,Surabaya, BASIC,19,255500.0,4854500.0,4,4.0,Kartu Kredit,10/05/2024,15.97,Indonesia,245.3,Bulanan,0
+CUST1538,18.0,Laki-laki,Semarang,Basic,51,264100.0,13469100.0,0,5.0,Transfer Bank,2021-09-23,16.51,Indonesia,255.2,Bulanan,0
+CUST1593,29.0,Laki-laki,Jakarta,Basic,40,,10140000.0,1,7.0,Ewallet,2022-08-19,15.84,Indonesia,39.1,Mingguan,0
+CUST1519,28.0,Laki-laki,Jakarta,Basic,0.33,252500.0,1010000.0,0,10.0,Transfer Bank,03/08/2025,15.78,Indonesia,155.6,Bulanan,0
+CUST1027,36.0,Perempuan,Surabaya,Basic,17,253500.0,4309500.0,1,6.0,Transfer Bank,09 July 2024,15.84,Indonesia,39.1,Mingguan,0
+CUST1060,18.0,Perempuan,surabaya ,Basic,53,238800.0,12656400.0,3,2.0,E-Wallet,2021-07-25,14.92,Indonesia,230.6,Bulanan,0
+CUST1385,25.0,Laki-laki,Bandung,Basic,25,244100.0,6102500.0,2,tidak tahu,E-Wallet,2023-11-12,15.26,Indonesia,205.7,Bulanan,0
+CUST1389,46.0,P,Jakarta,Basic,24,240100.0,5762400.0,2,8.0,transfer bank,2023-12-12,15.01,Indonesia,254.5,Bulanan,0
+CUST1293,,Laki-laki,Surabaya,Basic,11,237400.0,2611400.0,2,5.0,Kartu Kredit,05/01/2025,14.84,Indonesia,238.1,Bulanan,1
+CUST1109,24.0,Laki-laki,Bandung,premium,9,383100.0,3447900.0,2,,Virtual Account,2025-03-06,23.94,Indonesia,1131.2,Bulanan,0
+CUST1263,47.0,Perempuan,Semarang,Premium,42,Rp645600,27115200.0,0,7.0,,2022-06-20,40.35,Indonesia,1100.2,Bulanan,0
+CUST1414,24.0,Laki-laki,Bandung,Premium,24,644600.0,15470400.0,3,8.0,Virtual Account,2023-12-12,40.29,Indonesia,271.5,Mingguan,0
+CUST1248,26.0,Laki-laki,Jakarta,Basic,23,233400.0,5368200.0,0,6.0,Transfer Bank,11 January 2024,14.59,Indonesia,59.1,Mingguan,0
+CUST1188,25 th,Laki-laki,Medan,Premium,26,651700.0,16944200.0,1,tidak tahu,Transfer Bank,13/10/2023,40.73,Indonesia,202.3,Mingguan,0
+  cust1001@@,36.0,Perempuan,Medan,premium,19,662200.0,12581800.0,2,8.0,,10 May 2024,41.39,Indonesia,817.6,Bulanan,0
+CUST1163,32.0,Laki-laki,Semarang,Standard,21,391600.0,8223600.0,0,tidak tahu,Virtual Account,11/03/2024,24.48,Indonesia,410.2,Bulanan,0
+CUST1279,19.0,Laki-laki,Bandung,Standard,23,393100.0,9041300.0,0,8.0,Virtual Account,11 January 2024,24.57,Indonesia,115.1,Mingguan,0
+CUST1308,18.0,Laki-laki,Surabaya,Standard,7,397000.0,2779000.0,1,7.0,Transfer Bank,05/05/2025,24.81,Indonesia,382.8,Bulanan,1
+CUST1456,22.0,Perempuan,Makassar,Basic,1.17,246200.0,3446800.0,0,10.0,Kartu Kredit,07/10/2024,15.39,Indonesia,292.4,Bulanan,0
+CUST1191,45.0,Laki-laki,Surabaya,Premium,17,652800.0,11097600.0,2,6.0,Kartu Kredit,07-09-24,40.8,Indonesia,1148.4,Bulanan,0
+CUST1190,28.0,Perempuan,Jakarta,Basic,7,249100.0,1743700.0,0,7.0,Kartu Kredit,05/05/2025,15.57,Indonesia,38.2,Mingguan,0
+CUST1465,48.0,P,Jakarta,Standard,56,384400.0,21526400.0,1,9.0,E-Wallet,26 April 2021,24.02,Indonesia,430.9,Bulanan,0
+CUST1042,18.0,Laki-laki,Jkt,Standard,14,399600.0,5594400.0,2,6.0,Virtual Account,07/10/2024,24.98,Indonesia,491.8,Bulanan,1
+CUST1391,38.0,Perempuan,Bandung,Basic,16,245900.0,3934400.0,40,tidak tahu,E-Wallet,08/08/2024,15.37,Indonesia,36.8,Mingguan,0
+CUST1227,-5,Perempuan,Yogyakarta,Basic,17,247800.0,4212600.0,1,8.0,Transfer Bank,2024-07-09,15.49,Indonesia,298.3,Bulanan,0
+CUST1559,28.0,P,Surabaya,Basic,35,,8981000.0,0,7.0,Transfer Bank,2023-01-16,16.04,Indonesia,180.8,Bulanan,0
+CUST1179,50.0,Laki-laki,Bandung,Basic,26,243.7,6336200.0,1,8.0,Transfer Bank,2023-10-13,15.23,Indonesia,233.1,Bulanan,0
+CUST1152,43.0,Perempuan,Surabaya,premium,20,401700.0,8034000.0,0,6.0,Virtual Account,10/04/2024,25.11,Indonesia,253.8,Mingguan,0
+CUST1325,42.0,Laki-laki,Semarang,Basic,22,252900.0,5563800.0,0,5.0,E-Wallet,2024-02-10,15.81,Indonesia,266.2,Bulanan,0
+CUST1583,28.0,Laki-laki,Medan,Standard,27,409900.0,11067300.0,2,5.0,Virtual Account,13/09/2023,25.62,Indonesia,111.7,Mingguan,1
+CUST1126,36.0,Laki-laki,Medan,Premium,72,630300.0,45381600.0,4,4.0,Transfer Bank,02 January 2020,39.39,Indonesia,1190.4,Bulanan,1
+CUST1525,30.0,Perempuan,Medan,Standard,56,420100.0,23525600.0,0,7.0,transfer bank,2021-04-26,26.26,Indonesia,462.1,Bulanan,0
+CUST1544,29.0,Perempuan,Semarang,Basic,22,251200.0,5526400.0,0,7.0,Virtual Account,2024-02-10,15.7,Indonesia,166.5,Bulanan,0
+CUST1342,,Perempuan,Jakarta, BASIC,11,253400.0,2787400.0,0,8.0,E-Wallet,05/01/2025,15.84,Indonesia,169.8,Bulanan,0
+CUST1250,,Laki-laki,Yogyakarta,Premium,8,652900.0,5223200.0,1,7.0,Transfer Bank,05 April 2025,40.81,Indonesia,1073.1,Bulanan,0
+CUST1136,18.0,Perempuan,SEMARANG,Premium,45,653000.0,29385000.0,2,6.0,Virtual Account,22 March 2022,40.81,Indonesia,142.2,Mingguan,1
+CUST1084,26.0,Perempuan,Jakarta, BASIC,22,257300.0,5660600.0,2,6.0,Kartu Kredit,2024-02-10,16.08,Indonesia,169.0,Bulanan,0
+CUST1213,42.0,Perempuan,Bandung,Basic,26,256.0,6656000.0,0,8.0,Transfer Bank,13/10/2023,16.0,Indonesia,39.0,Mingguan,0
+CUST1221,,Perempuan,Surabaya, BASIC,40,424300.0,16972000.0,0,7.0,Transfer Bank,2022-08-19,26.52,Indonesia,217.2,Bulanan,0
+CUST1115,58.0,Laki-laki,Jakarta,Standard,30,406000.0,12180000.0,0,8.0,Kartu Kredit,2023-06-15,25.38,Indonesia,478.1,Bulanan,0
+CUST1246,,Laki-laki,Surabaya,premium,34,406400.0,13817600.0,4,6.0,Virtual Account,15/02/2023,25.4,Indonesia,732.9,Bulanan,1
+CUST1207,42.0,Laki-laki,Jakarta,Standard,26,409200.0,10639200.0,4,5.0,E-Wallet,2023-10-13,25.58,Indonesia,518.2,Bulanan,0
+CUST1405,39 th,Laki-laki,Medan,Basic,20,245000.0,4900000.0,2,6.0,Virtual Account,10/04/2024,15.31,Indonesia,58.1,Mingguan,0
+CUST1446,21.0,Laki-laki,Semarang,Basic,61,242500.0,14792500.0,3,6.0,Virtual Account,27/11/2020,15.16,Indonesia,57.5,Mingguan,0
+CUST1318,29.0,Laki-laki,Jakarta,Standard,38,407200.0,15473600.0,2,5.0,transfer bank,2022-10-18,25.45,Indonesia,599.6,Bulanan,0
+CUST1353,36.0,Laki-laki,Bandung,Basic,9,257600.0,2318400.0,1,9.0,E-Wallet,06/03/2025,16.1,Indonesia,49.9,Mingguan,0
+CUST1124,27.0,Perempuan,Bandung,Standard,12,399700.0,4796400.0,2,7.0,,2024-12-06,24.98,Indonesia,539.4,Bulanan,0
+CUST1283,21.0,Perempuan,Medan,Basic,17,247500.0,4207500.0,2,8.0,Kartu Kredit,09/07/2024,15.47,Indonesia,256.9,Bulanan,1
+CUST1166,38.0,Laki-laki,yogyakarta ,Premium,5,633700.0,3168500.0,1,,transfer bank,04 July 2025,39.61,Indonesia,265.9,Mingguan,1
+CUST1092,26.0,Perempuan,Yogyakarta,Basic,14,244.0,3416000.0,2,7.0,Virtual Account,2024-10-07,15.25,Indonesia,40.2,Mingguan,0
+CUST1418,38.0,Perempuan,,Standard,6,409300.0,2455800.0,3,,Transfer Bank,04/06/2025,25.58,Indonesia,487.3,Bulanan,0
+CUST1392,25.0,Laki-laki,Surabaya,Basic,29,255000.0,7395000.0,1,7.0,Transfer Bank,15/07/2023,15.94,Indonesia,256.8,Bulanan,0
+CUST1457,35.0,Perempuan,Semarang,Basic,5,Rp240700,1203500.0,2,5.0,Transfer Bank,2025-07-04,15.04,Indonesia,55.9,Mingguan,0
+CUST1434,32.0,Perempuan,Jakarta,Basic,28,247000.0,6916000.0,2,8.0,Virtual Account,2023-08-14,15.44,Indonesia,225.8,Bulanan,0
+CUST1594,39.0,Laki-laki,Jakarta,Basic,11,248100.0,2729100.0,2,7.0,Virtual Account,05/01/2025,15.51,Indonesia,62.8,Mingguan,0
+CUST1045,37.0,Perempuan,Surabaya,Basic,20,259500.0,5190000.0,2,7.0,E-Wallet,2024-04-10,16.22,Indonesia,248.2,Bulanan,0
+CUST1222,30.0,Laki-laki,Medan,premium,21,249000.0,5229000.0,2,6.0,Transfer Bank,03-11-24,15.56,Indonesia,930.8,Bulanan,0
+CUST1336,30.0,Perempuan,Makassar,Standard,28,411800.0,11530400.0,2,6.0,Transfer Bank,2023-08-14,25.74,Indonesia,429.0,Bulanan,0
+CUST1277,41.0,Perempuan,Jakarta,Standard,27,408400.0,11026800.0,1,6.0,Transfer Bank,2023-09-13,25.52,Indonesia,424.1,Bulanan,0
+CUST1156,60.0,Laki-laki,Semarang,Standard,10,413000.0,4130000.0,1,8.0,E-Wallet,2025-02-04,25.81,Indonesia,419.6,Bulanan,0
+CUST1150,45.0,L,Yogyakarta,Premium,20,658.3,13166000.0,0,8.0,,2024-04-10,41.14,Indonesia,183.8,Mingguan,0
+CUST1568,18.0,Perempuan,Medan,Standard,25,388900.0,9722500.0,1,5.0,E-Wallet,11-12-23,24.31,Indonesia,376.5,Bulanan,0
+CUST1195,35.0,Perempuan,Surabaya,Basic,29,246900.0,7160100.0,1,7.0,E-Wallet,15 July 2023,15.43,Indonesia,253.0,Bulanan,0
+CUST1090,42.0,Perempuan,Yogyakarta,Basic,22,251600.0,5535200.0,1,,Transfer Bank,10 February 2024,15.72,Indonesia,38.2,Mingguan,0
+CUST1457,35.0,Perempuan,Semarang,Basic,5,Rp240700,1203500.0,2,5.0,Transfer Bank,2025-07-04,15.04,Indonesia,55.9,Mingguan,0
+CUST1471,26.0,Perempuan,Medan,Basic,30,260300.0,7809000.0,1,7.0,Transfer Bank,15/06/2023,16.27,Indonesia,214.8,Bulanan,0
+  cust1420@@,21.0,Laki-laki,Jakarta,Premium,17,641700.0,10908900.0,0,9.0,Transfer Bank,09/07/2024,40.11,Indonesia,192.2,Mingguan,0
+  cust1383@@,23.0,Perempuan,Jakarta, BASIC,19,436800.0,8299200.0,3,7.0,Transfer Bank,10/05/2024,27.3,Indonesia,159.0,Bulanan,1
+CUST1258,24.0,Perempuan,Yogyakarta,Basic,28,262700.0,7355600.0,1,8.0,Virtual Account,14 August 2023,16.42,Indonesia,234.3,Bulanan,0
+CUST1025,27.0,Laki-laki,Bandung,Standard,-12,417200.0,17939600.0,3,6.0,Transfer Bank,2022-05-21,26.08,Indonesia,423.2,Bulanan,0
+CUST1441,29.0,Laki-laki,Surabaya,Premium,3.33,681000.0,27240000.0,3,6.0,Transfer Bank,2022-08-19,42.56,Indonesia,1164.7,Bulanan,0
+CUST1566,46.0,Laki-laki,Yogyakarta,Premium,5,639600.0,3198000.0,3,7.0,Virtual Account,04/07/2025,39.98,Indonesia,268.2,Mingguan,0
+CUST1261,37.0,Perempuan,Surabaya,Standard,7,394900.0,2764300.0,4,5.0,Transfer Bank,05-05-25,24.68,Indonesia,117.9,Mingguan,0
+CUST1341,29.0,Perempuan,YOGYAKARTA,Standard,12,411900.0,4942800.0,3,6.0,E-Wallet,2024-12-06,25.74,Indonesia,90.1,Mingguan,0
+CUST1397,49.0,L,Makassar,Basic,14,243200.0,3404800.0,1,7.0,Kartu Kredit,07 October 2024,15.2,Indonesia,165.5,Bulanan,0
+CUST1470,40.0,Perempuan,Bandung,Premium,55,,35728000.0,3,5.0,Virtual Account,26/05/2021,40.6,Indonesia,692.8,Bulanan,0
+  cust1306@@,43.0,Perempuan,Surabaya,Basic,15,248200.0,3723000.0,1,7.0,E-Wallet,07 September 2024,15.51,Indonesia,277.1,Bulanan,0
+CUST1541,32.0,Laki-laki,Makassar,Basic,4,251900.0,1007600.0,1,8.0,,03 August 2025,15.74,Indonesia,54.5,Mingguan,0
+CUST1133,35.0,L,MAKASSAR,Basic,7,250200.0,1751400.0,2,7.0,Kartu Kredit,05/05/2025,15.64,Indonesia,44.8,Mingguan,0
+CUST1556,29.0,Perempuan,Surabaya,Premium,21,648800.0,13624800.0,0,9.0,Kartu Kredit,11/03/2024,40.55,Indonesia,857.5,Bulanan,0
+  cust1106@@,18.0,Perempuan,Medan,Premium,23,654100.0,15044300.0,1,8.0,Transfer Bank,2024-01-11,40.88,Indonesia,1060.5,Bulanan,0
+CUST1108,22.0,Perempuan,MEDAN,Standard,18,378700.0,6816600.0,0,9.0,Kartu Kredit,09/06/2024,23.67,Indonesia,502.5,Bulanan,0
+CUST1338,38.0,Laki-laki,Yogyakarta,Basic,13,248800.0,3234400.0,4,3.0,Virtual Account,06/11/2024,15.55,Indonesia,241.3,Bulanan,1
+CUST1474,18.0,Perempuan,Bandung,Basic,41,Rp248900,10204900.0,2,4.0,Transfer Bank,20 July 2022,15.56,Indonesia,59.3,Mingguan,0
+CUST1387,-5,Perempuan,Yogyakarta,Basic,44,,10859200.0,0,8.0,E-Wallet,2022-04-21,15.42,Indonesia,191.0,Bulanan,0
+CUST1482,44.0,Laki-laki,Jakarta,Basic,35,252800.0,8848000.0,0,8.0,Kartu Kredit,2023-01-16,15.8,Indonesia,288.2,Bulanan,0
+CUST1278,54.0,Laki-laki,Bandung,Standard,56,408700.0,22887200.0,3,9.0,Transfer Bank,2021-04-26,25.54,Indonesia,82.7,Mingguan,0
+CUST1160,19.0,Perempuan,SURABAYA,Standard,41,363300.0,14895300.0,4,1.0,Kartu Kredit,20 July 2022,22.71,Indonesia,116.0,Mingguan,0
+CUST1609,30.0,Perempuan,Medan,Basic,5,253800.0,1269000.0,2,5.0,Virtual Account,2025-07-04,15.86,Indonesia,261.1,Bulanan,1
+CUST1417,35.0,Perempuan,Surabaya,Basic,20,257300.0,5146000.0,1,7.0,,04-10-24,16.08,Indonesia,163.8,Bulanan,0
+CUST1103,45.0,Laki-laki,Bandung,Premium,24,665000.0,15960000.0,0,10.0,Kartu Kredit,2023-12-12,41.56,Indonesia,830.4,Bulanan,0
+CUST1297,46.0,Perempuan,jakarta ,Premium,36,Rp647000,23292000.0,2,,E-Wallet,17/12/2022,40.44,Indonesia,825.7,Bulanan,0
+CUST1162,24.0,Laki-laki,Jakarta,Premium,10,636700.0,6367000.0,0,,E-Wallet,04 February 2025,39.79,Indonesia,162.0,Mingguan,0
+CUST1131,40.0,,Medan,Basic,44,250300.0,11013200.0,5,2.0,Transfer Bank,21/04/2022,15.64,Indonesia,198.7,Bulanan,0
+CUST1070,40.0,Laki-laki,Surabaya,Basic,10,243600.0,2436000.0,3,6.0,Transfer Bank,04 February 2025,15.22,Indonesia,239.4,Bulanan,0
+CUST1081,28.0,Perempuan,Medan,Basic,3,248200.0,744600.0,1,8.0,Kartu Kredit,09-02-25,15.51,Indonesia,173.3,Bulanan,0
+CUST1336,30.0,Perempuan,Makassar,Standard,28,411800.0,11530400.0,2,6.0,Transfer Bank,2023-08-14,25.74,Indonesia,429.0,Bulanan,0
+CUST1002,47.0,Perempuan,Surabaya,Premium,14,Rp646800,9055200.0,1,8.0,Virtual Account,2024-10-07,40.42,Indonesia,147.0,Mingguan,0
+CUST1435,40.0,Perempuan,Jakarta,Basic,19,245600.0,4666400.0,1,9.0,Transfer Bank,05-10-24,15.35,Indonesia,216.5,Bulanan,0
+CUST1550,40.0,Laki-laki,Makassar,Standard,8,402300.0,3218400.0,0,8.0,E-Wallet,2025-04-05,25.14,Indonesia,482.1,Bulanan,0
+CUST1050,32.0,Perempuan,medan ,Premium,10,613800.0,6138000.0,1,8.0,Transfer Bank,04/02/2025,38.36,Indonesia,729.3,Bulanan,0
+CUST1574,30.0,Laki-laki,Bandung,Basic,12,241900.0,2902800.0,1,7.0,E-Wallet,06 December 2024,15.12,Indonesia,47.1,Mingguan,0
+CUST1026,27.0,Perempuan,Jkt,Premium,9,669900.0,6029100.0,4,2.0,Virtual Account,2025-03-06,41.87,Indonesia,1006.9,Bulanan,1
+CUST1362,42.0,Laki-laki,Semarang,Standard,12,419100.0,5029200.0,2,4.0,E-Wallet,2024-12-06,26.19,Indonesia,106.9,Mingguan,0
+CUST1431,25.0,Perempuan,jakarta , BASIC,36,,8830800.0,3,5.0,E-Wallet,17 December 2022,15.33,Indonesia,183.1,Bulanan,1
+  cust1440@@,,Laki-laki,Semarang,Premium,0.25,629300.0,1887900.0,1,6.0,Transfer Bank,2025-09-02,39.33,Indonesia,147.7,Mingguan,0
+CUST1187,45.0,Laki-laki,Jakarta,Premium,22,,14348400.0,1,7.0,E-Wallet,2024-02-10,40.76,Indonesia,1167.2,Bulanan,0
+CUST1476,44.0,Laki-laki,Makassar,Premium,24,652400.0,15657600.0,1,9.0,Virtual Account,12/12/2023,40.78,Indonesia,247.0,Mingguan,0
+CUST1562,54.0,Laki-laki,Jakarta,Standard,1.17,413900.0,5794600.0,1,7.0,E-Wallet,10-07-24,25.87,Indonesia,336.0,Bulanan,0
+CUST1507,,Perempuan,JAKARTA,Premium,9,618200.0,5563800.0,3,6.0,E-Wallet,06/03/2025,38.64,Indonesia,200.3,Mingguan,0
+CUST1605,27.0,Laki-laki,Surabaya,Standard,18,374500.0,6741000.0,1,6.0,Transfer Bank,09/06/2024,23.41,Indonesia,107.3,Mingguan,0
+CUST1554,52.0,Laki-laki,Medan,premium,7,385100.0,2695700.0,2,7.0,Virtual Account,05 May 2025,24.07,Indonesia,935.2,Bulanan,0
+CUST1122,31.0,Laki-laki,Bandung,Standard,15,Rp406000,6090000.0,2,6.0,Transfer Bank,07 September 2024,25.38,Indonesia,406.3,Bulanan,0
+  cust1381@@,29.0,Perempuan,Surabaya,Basic,2.58,246700.0,7647700.0,1,7.0,E-Wallet,16/05/2023,15.42,Indonesia,261.3,Bulanan,0
+CUST1296,35.0,Laki-laki,Jakarta,Basic,61,256500.0,15646500.0,0,7.0,Transfer Bank,27/11/2020,16.03,Indonesia,51.1,Mingguan,0
+CUST1216,32.0,Perempuan,,Premium,27,641200.0,17312400.0,2,6.0,Virtual Account,13 September 2023,40.08,Indonesia,787.8,Bulanan,0
+CUST1226,37.0,L,Surabaya,Standard,17,Rp396800,6745600.0,2,5.0,E-Wallet,09 July 2024,24.8,Indonesia,421.3,Bulanan,1
+CUST1020,42.0,Perempuan,Surabaya,Premium,19,671200.0,12752800.0,1,6.0,E-Wallet,2024-05-10,41.95,Indonesia,773.7,Bulanan,0
+CUST1111,150,Perempuan,Bandung,Standard,9,398500.0,3586500.0,1,7.0,E-Wallet,2025-03-06,24.91,Indonesia,137.6,Mingguan,0
+CUST1072,28.0,Laki-laki,Semarang,Standard,22,426100.0,9374200.0,1,8.0,Virtual Account,02-10-24,26.63,Indonesia,584.3,Bulanan,0
+CUST1068,45.0,Laki-laki,Semarang, BASIC,14,405600.0,5678400.0,1,8.0,E-Wallet,2024-10-07,25.35,Indonesia,253.4,Bulanan,0
+CUST1386,50.0,,,Premium,11,660800.0,7268800.0,3,7.0,E-Wallet,05/01/2025,41.3,Indonesia,201.1,Mingguan,1
+CUST1394,26 th,Laki-laki,Medan,Basic,6,259000.0,1554000.0,0,9.0,transfer bank,2025-06-04,16.19,Indonesia,215.4,Bulanan,0
+CUST1038,33.0,,,Premium,18,640000.0,11520000.0,4,2.0,E-Wallet,2024-06-09,40.0,Indonesia,647.2,Bulanan,1
+CUST1330,36.0,Perempuan,Bandung,Standard,38,405.2,15397600.0,3,5.0,E-Wallet,18/10/2022,25.32,Indonesia,122.2,Mingguan,0
+CUST1153,33.0,Perempuan,Jakarta,Standard,58,404700.0,23472600.0,2,7.0,E-Wallet,2021-02-25,25.29,Indonesia,124.5,Mingguan,0
+CUST1244,33.0,,Jakarta,Standard,32,412400.0,13196800.0,2,7.0,Virtual Account,2023-04-16,25.78,Indonesia,490.0,Bulanan,0
+CUST1280,52.0,Laki-laki,Semarang,Standard,11,Rp402700,4429700.0,1,7.0,Transfer Bank,2025-01-05,25.17,Indonesia,358.2,Bulanan,0
+CUST1343,25.0,Perempuan,Medan,Basic,6,257100.0,1542600.0,1,7.0,Transfer Bank,2025-06-04,16.07,Indonesia,202.7,Bulanan,0
+CUST1322,32.0,Laki-laki,,premium,13,379800.0,4937400.0,1,7.0,Kartu Kredit,06 November 2024,23.74,Indonesia,230.4,Mingguan,0
+CUST1203,25.0,Perempuan,Semarang,premium,33,388700.0,12827100.0,0,8.0,transfer bank,17 March 2023,24.29,Indonesia,154.4,Mingguan,0
+CUST1481,39.0,Laki-laki,Bandung,Standard,3.75,403500.0,18157500.0,1,8.0,E-Wallet,2022-03-22,25.22,Indonesia,82.1,Mingguan,0
+CUST1200,,Laki-laki,Semarang,Basic,45,245600.0,11052000.0,3,4.0,E-Wallet,03-22-22,15.35,Indonesia,61.6,Mingguan,0
+CUST1615,42.0,,Medan,Basic,45,249700.0,11236500.0,1,5.0,,03-22-22,15.61,Indonesia,292.7,Bulanan,0
+CUST1458,40.0,Perempuan,Jakarta,Basic,3,249000.0,747000.0,0,9.0,Transfer Bank,02 September 2025,15.56,Indonesia,219.6,Bulanan,0
+CUST1007,51.0,Laki-laki,Jkt,Standard,8,367600.0,2940800.0,0,8.0,E-Wallet,05/04/2025,22.98,Indonesia,473.8,Bulanan,0
+CUST1461,30.0,Perempuan,Surabaya,Standard,11,389800.0,4287800.0,1,,Transfer Bank,2025-01-05,24.36,Indonesia,564.6,Bulanan,0
+CUST1300,40.0,Perempuan,Semarang,Basic,10,,2525000.0,2,6.0,E-Wallet,04 February 2025,15.78,Indonesia,69.5,Mingguan,0
+CUST1160,19.0,Perempuan,SURABAYA,Standard,41,363300.0,14895300.0,4,1.0,Kartu Kredit,20 July 2022,22.71,Indonesia,116.0,Mingguan,0
+CUST1361,32.0,P,Jakarta,Standard,46,382900.0,17613400.0,1,8.0,Kartu Kredit,20 February 2022,23.93,Indonesia,138.0,Mingguan,0
+CUST1513,26.0,L,Jakarta,Premium,32,649800.0,20793600.0,1,7.0,,2023-04-16,40.61,Indonesia,863.9,Bulanan,0
+CUST1424,28.0,Laki-laki,Bandung,Premium,26,636100.0,16538600.0,2,8.0,Kartu Kredit,13/10/2023,39.76,Indonesia,978.8,Bulanan,0
+CUST1602,33.0,Perempuan,Surabaya,Standard,0.83,396500.0,3965000.0,1,8.0,Ewallet,04/02/2025,24.78,Indonesia,477.4,Bulanan,0
+CUST1469,46.0,Laki-laki,Bandung,premium,31,416900.0,12923900.0,0,7.0,Kartu Kredit,2023-05-16,26.06,Indonesia,644.5,Bulanan,0
+CUST1205,52.0,Laki-laki,Semarang,premium,7,408300.0,2858100.0,1,8.0,transfer bank,05/05/2025,25.52,Indonesia,622.6,Bulanan,0
+CUST1408,150,Perempuan,Jakarta,Premium,38,631100.0,23981800.0,3,99,Transfer Bank,2022-10-18,39.44,Indonesia,772.2,Bulanan,0
+CUST1235,52.0,Perempuan,,Standard,26,405800.0,10550800.0,2,7.0,Virtual Account,13/10/2023,25.36,Indonesia,138.4,Mingguan,0
+CUST1315,27.0,Laki-laki,Jakarta,Standard,16,398300.0,6372800.0,0,8.0,Transfer Bank,08 August 2024,24.89,Indonesia,478.2,Bulanan,0
+CUST1569,32.0,Laki-laki,Yogyakarta, BASIC,55,,14426500.0,3,4.0,transfer bank,2021-05-26,16.39,Indonesia,237.0,Bulanan,0
+CUST1320,31.0,Laki-laki,makassar ,Standard,19,378200.0,7185800.0,1,8.0,Transfer Bank,10 May 2024,23.64,Indonesia,393.3,Bulanan,0
+CUST1514,18.0,Perempuan,Surabaya,Premium,6,679200.0,4075200.0,0,9.0,Kartu Kredit,04/06/2025,42.45,Indonesia,243.5,Mingguan,0
+CUST1396,27.0,Perempuan,Bandung,Standard,51,402300.0,20517300.0,0,8.0,Transfer Bank,2021-09-23,25.14,Indonesia,572.7,Bulanan,0
+CUST1518,31.0,Laki-laki,Surabaya,Standard,22,393400.0,8654800.0,1,10.0,E-Wallet,2024-02-10,24.59,Indonesia,356.5,Bulanan,0
+  cust1506@@,41.0,Laki-laki,Bandung,Standard,44,405.2,17828800.0,0,9.0,,21/04/2022,25.32,Indonesia,450.4,Bulanan,0
+CUST1110,31.0,Laki-laki,Medan,Standard,43,404500.0,17393500.0,1,8.0,Kartu Kredit,21 May 2022,25.28,Indonesia,435.2,Bulanan,0
+  cust1148@@,47.0,Perempuan,Jakarta,Basic,42,260000.0,10920000.0,1,7.0,Transfer Bank,2022-06-20,16.25,Indonesia,275.6,Bulanan,0
+CUST1206,54.0,Perempuan,Jakarta,Basic,28,237900.0,6661200.0,2,7.0,Kartu Kredit,2023-08-14,14.87,Indonesia,162.6,Bulanan,0
+CUST1073,35.0,,Yogyakarta,Standard,23,396300.0,9114900.0,0,8.0,Ewallet,11 January 2024,24.77,Indonesia,311.7,Bulanan,1
+CUST1534,150,Laki-laki,Semarang,Standard,17,405300.0,6890100.0,1,9.0,Transfer Bank,09/07/2024,25.33,Indonesia,597.3,Bulanan,0
+CUST1356,36.0,,Bandung,Premium,18,655800.0,11804400.0,0,9.0,Ewallet,09/06/2024,40.99,Indonesia,965.9,Bulanan,0
+CUST1358,18.0,Laki-laki,Bandung,Basic,53,253400.0,13430200.0,2,5.0,Transfer Bank,2021-07-25,15.84,Indonesia,287.7,Bulanan,0
+CUST1259,32.0,Laki-laki,Surabaya,Standard,35,411.0,14385000.0,0,9.0,Virtual Account,2023-01-16,25.69,Indonesia,532.3,Bulanan,0
+CUST1555,43.0,Laki-laki,Makassar,Basic,54,246100.0,13289400.0,1,,E-Wallet,2021-06-25,15.38,Indonesia,179.6,Bulanan,0
+CUST1321,49.0,Perempuan,Makassar,Premium,11,622800.0,6850800.0,1,8.0,Transfer Bank,05/01/2025,38.92,Indonesia,631.4,Bulanan,0
+CUST1080,35.0,Laki-laki,Bandung,premium,16,256500.0,4104000.0,2,5.0,Transfer Bank,2024-08-08,16.03,Indonesia,186.9,Mingguan,0
+CUST1319,27.0,P,Jakarta,Basic,54,250600.0,13532400.0,2,5.0,Transfer Bank,25/06/2021,15.66,Indonesia,233.7,Bulanan,0
+CUST1604,44.0,Laki-laki,Makassar,Standard,7,386800.0,2707600.0,2,5.0,Kartu Kredit,2025-05-05,24.18,Indonesia,101.2,Mingguan,0
+CUST1539,39.0,L,,Standard,7,378900.0,2652300.0,1,6.0,Virtual Account,2025-05-05,23.68,Indonesia,375.6,Bulanan,1
+CUST1586,30.0,Perempuan,,Basic,38,238700.0,9070600.0,3,5.0,Transfer Bank,18 October 2022,14.92,Indonesia,294.7,Bulanan,1
+CUST1135,37.0,Perempuan,Medan,Basic,23,243300.0,5595900.0,0,8.0,Virtual Account,11/01/2024,15.21,Indonesia,40.3,Mingguan,0
+CUST1393,44.0,Laki-laki,Bandung,Premium,41,649400.0,26625400.0,2,8.0,E-Wallet,07-20-22,40.59,Indonesia,998.2,Bulanan,0
+CUST1266,41.0,Laki-laki,Surabaya,Standard,13,405500.0,5271500.0,5,3.0,E-Wallet,2024-11-06,25.34,Indonesia,393.1,Bulanan,1
+CUST1245,40.0,Perempuan,Jakarta,Basic,7,243100.0,1701700.0,1,8.0,,2025-05-05,15.19,Indonesia,58.2,Mingguan,0
+CUST1051,34.0,Laki-laki,Bandung,Premium,25,652200.0,16305000.0,0,9.0,,2023-11-12,40.76,Indonesia,239.2,Mingguan,0
+CUST1493,,Perempuan,,Standard,50,391100.0,19555000.0,4,5.0,Transfer Bank,23/10/2021,24.44,Indonesia,594.2,Bulanan,0
+CUST1286,34.0,Perempuan,Semarang,Basic,40,255400.0,10216000.0,2,10.0,E-Wallet,19/08/2022,15.96,Indonesia,233.8,Bulanan,0
+CUST1485,46.0,Laki-laki,Yogyakarta,Standard,36,398100.0,14331600.0,0,8.0,Kartu Kredit,17/12/2022,24.88,Indonesia,93.0,Mingguan,0
+CUST1164,54.0,Perempuan,Bandung,Basic,4,246.5,986000.0,0,8.0,,03/08/2025,15.41,Indonesia,255.4,Bulanan,0
+CUST1225,29.0,Laki-laki,bandung ,Premium,47,661600.0,31095200.0,2,7.0,Virtual Account,21/01/2022,41.35,Indonesia,1198.3,Bulanan,0
+CUST1233,42.0,Laki-laki,Surabaya,Basic,15,258800.0,3882000.0,0,9.0,Virtual Account,09-07-24,16.18,Indonesia,164.0,Bulanan,0
+CUST1510,37.0,Laki-laki,Bandung,Premium,8,632800.0,5062400.0,1,9.0,E-Wallet,05/04/2025,39.55,Indonesia,211.2,Mingguan,0
+CUST1012,29.0,Perempuan,Medan,Premium,5.25,617300.0,38889900.0,1,6.0,transfer bank,2020-09-28,38.58,Indonesia,785.3,Bulanan,0
+CUST1247,39 th,P,Jakarta,Basic,12,240000.0,2880000.0,0,,E-Wallet,06/12/2024,15.0,Indonesia,201.3,Bulanan,0
+CUST1028,45.0,,Surabaya,Premium,6,674100.0,4044600.0,0,9.0,Virtual Account,04/06/2025,42.13,Indonesia,715.2,Bulanan,0
+CUST1347,45.0,Perempuan,Jakarta,Basic,7,244500.0,1711500.0,3,6.0,Transfer Bank,2025-05-05,15.28,Indonesia,40.4,Mingguan,0
+CUST1404,46.0,Perempuan,Jakarta,Basic,36,260300.0,9370800.0,1,6.0,E-Wallet,2022-12-17,16.27,Indonesia,268.2,Bulanan,0
+CUST1372,27.0,Perempuan,MAKASSAR,Premium,47,652.1,30648700.0,0,,Transfer Bank,21/01/2022,40.76,Indonesia,923.9,Bulanan,0
+CUST1056,30.0,Laki-laki,Surabaya,Basic,6,242500.0,1455000.0,0,8.0,Virtual Account,2025-06-04,15.16,Indonesia,229.0,Bulanan,0
+CUST1542,36.0,Perempuan,Semarang,Basic,8,235900.0,1887200.0,0,8.0,E-Wallet,05/04/2025,14.74,Indonesia,281.5,Bulanan,0
+  cust1407@@,30.0,Laki-laki,Semarang,Basic,13,232900.0,3027700.0,1,5.0,Virtual Account,2024-11-06,14.56,Indonesia,55.9,Mingguan,0
+CUST1142,26.0,Laki-laki,Jakarta, BASIC,21,404700.0,8498700.0,2,6.0,Kartu Kredit,11 March 2024,25.29,Indonesia,177.1,Bulanan,0
+CUST1326,34.0,Perempuan,Bandung,Basic,63,257500.0,16222500.0,2,6.0,E-Wallet,2020-09-28,16.09,Indonesia,243.7,Bulanan,0
+CUST1058,33.0,Laki-laki,Jkt,Basic,34,251700.0,8557800.0,1,7.0,E-Wallet,15/02/2023,15.73,Indonesia,60.2,Mingguan,0
+CUST1177,41.0,Laki-laki,Jakarta,Premium,12,655500.0,7866000.0,4,3.0,E-Wallet,06 December 2024,40.97,Indonesia,818.6,Bulanan,1
+CUST1260,38.0,,Yogyakarta,Standard,13,386100.0,5019300.0,4,,Transfer Bank,06/11/2024,24.13,Indonesia,590.9,Bulanan,1
+CUST1388,25.0,Perempuan,Surabaya,premium,15,658000.0,9870000.0,2,7.0,Transfer Bank,2024-09-07,41.12,Indonesia,1051.4,Bulanan,0
+CUST1370,,Laki-laki,Bandung,Basic,49,254400.0,12465600.0,1,7.0,Transfer Bank,2021-11-22,15.9,Indonesia,43.2,Mingguan,0
+CUST1400,33.0,Laki-laki,Jakarta,Standard,12,390500.0,4686000.0,1,7.0,Ewallet,12-06-24,24.41,Indonesia,589.7,Bulanan,0
+CUST1449,20.0,Perempuan,Medan,Standard,31,410600.0,12728600.0,3,4.0,Virtual Account,16/05/2023,25.66,Indonesia,133.3,Mingguan,0
+CUST1403,37.0,Laki-laki,Jakarta,Standard,47,389400.0,18301800.0,1,4.0,E-Wallet,21/01/2022,24.34,Indonesia,503.5,Bulanan,0
+CUST1089,-5,Laki-laki,MAKASSAR,Basic,15,251500.0,3772500.0,1,6.0,Transfer Bank,07 September 2024,15.72,Indonesia,216.1,Bulanan,0
+CUST1167,39.0,Laki-laki,Jakarta,Premium,32,636600.0,20371200.0,0,8.0,Virtual Account,2023-04-16,39.79,Indonesia,1066.9,Bulanan,0
+CUST1270,32.0,Laki-laki,Jakarta,Standard,16,420800.0,6732800.0,3,tidak tahu,Transfer Bank,2024-08-08,26.3,Indonesia,550.7,Bulanan,0
+CUST1186,52.0,Laki-laki,Semarang,Standard,64,397500.0,763200000.0,0,10.0,E-Wallet,2020-08-29,24.84,Indonesia,99.3,Mingguan,0
+CUST1024,37.0,Perempuan,Surabaya,Basic,1.25,244500.0,3667500.0,1,9.0,Kartu Kredit,2024-09-07,15.28,Indonesia,180.0,Bulanan,0
+CUST1496,21.0,Perempuan,Surabaya,Basic,42,251300.0,10554600.0,0,7.0,Virtual Account,2022-06-20,15.71,Indonesia,65.6,Mingguan,0
+CUST1180,61.0,Perempuan,Semarang,premium,55,,21703000.0,1,7.0,Transfer Bank,05-26-21,24.66,Indonesia,888.4,Bulanan,0
+CUST1603,19.0,Perempuan,Bandung,Basic,35,250500.0,8767500.0,2,9.0,Transfer Bank,2023-01-16,15.66,Indonesia,290.1,Bulanan,0
+CUST1047,25.0,Laki-laki,Jkt,Premium,34,650700.0,22123800.0,1,5.0,E-Wallet,15/02/2023,40.67,Indonesia,212.2,Mingguan,0
+CUST1292,44.0,Laki-laki,,Premium,29,635000.0,18415000.0,0,6.0,Virtual Account,2023-07-15,39.69,Indonesia,151.7,Mingguan,0
+CUST1599,-5,Laki-laki,Jakarta,Basic,8,260100.0,2080800.0,0,8.0,E-Wallet,2025-04-05,16.26,Indonesia,217.4,Bulanan,0
+CUST1348,38.0,L,Jakarta,Premium,38,634200.0,24099600.0,0,7.0,Virtual Account,10-18-22,39.64,Indonesia,256.3,Mingguan,0
+CUST1576,29.0,Perempuan,Surabaya,Basic,7,245900.0,1721300.0,1,7.0,E-Wallet,2025-05-05,15.37,Indonesia,286.6,Bulanan,0
+CUST1224,36.0,Perempuan,Bandung,Standard,22,405000.0,8910000.0,0,6.0,E-Wallet,10/02/2024,25.31,Indonesia,565.4,Bulanan,0
+CUST1390,40.0,Perempuan,Semarang,Standard,19,379600.0,7212400.0,0,8.0,Transfer Bank,10/05/2024,23.72,Indonesia,424.5,Bulanan,0
+CUST1041,47.0,Laki-laki,Bandung,Standard,40,397500.0,15900000.0,5,3.0,Virtual Account,19/08/2022,24.84,Indonesia,412.2,Bulanan,1
+CUST1552,35.0,Laki-laki,Surabaya,Premium,48,638500.0,30648000.0,2,7.0,Kartu Kredit,22/12/2021,39.91,Indonesia,151.4,Mingguan,0
+CUST1112,25.0,Laki-laki,Medan,Standard,27,396200.0,10697400.0,1,7.0,E-Wallet,13 September 2023,24.76,Indonesia,316.8,Bulanan,0
+CUST1031,,Laki-laki,Makassar,Premium,13,632500.0,8222500.0,2,7.0,Transfer Bank,2024-11-06,39.53,Indonesia,184.6,Mingguan,0
+CUST1077,27.0,Laki-laki,Yogyakarta,Standard,31,399800.0,12393800.0,1,99,Virtual Account,16/05/2023,24.99,Indonesia,120.0,Mingguan,0
+CUST1139,18.0,Perempuan,Medan,Standard,16,402700.0,6443200.0,1,7.0,Virtual Account,08 August 2024,25.17,Indonesia,80.2,Mingguan,1
+CUST1547,23.0,Laki-laki,BANDUNG,Premium,2.75,650100.0,21453300.0,3,6.0,,2023-03-17,40.63,Indonesia,1150.4,Bulanan,0
+CUST1010,39.0,L,Yogyakarta,Basic,23,256300.0,5894900.0,0,8.0,E-Wallet,11/01/2024,16.02,Indonesia,274.7,Bulanan,0
+CUST1409,34.0,Perempuan,Semarang, BASIC,10,406100.0,4061000.0,2,6.0,,2025-02-04,25.38,Indonesia,220.4,Bulanan,1
+CUST1062,46.0,P,Surabaya,Standard,40,407600.0,16304000.0,0,,Transfer Bank,2022-08-19,25.48,Indonesia,133.4,Mingguan,0
+CUST1363,51.0,Laki-laki,Semarang,Basic,47,243.2,11430400.0,1,7.0,E-Wallet,21 January 2022,15.2,Indonesia,42.5,Mingguan,0
+CUST1478,38.0,Laki-laki,Jakarta,Premium,17,650900.0,11065300.0,1,6.0,Transfer Bank,09/07/2024,40.68,Indonesia,1164.1,Bulanan,0
+CUST1057,29.0,L,Bandung,Basic,31,253000.0,7843000.0,0,9.0,Ewallet,2023-05-16,15.81,Indonesia,213.5,Bulanan,0
+CUST1004,29.0,Perempuan,Bandung,Standard,19,397800.0,7558200.0,2,5.0,Kartu Kredit,10/05/2024,24.86,Indonesia,86.6,Mingguan,0
+CUST1608,23.0,Laki-laki,Surabaya,Standard,25,393900.0,9847500.0,3,6.0,Transfer Bank,12 November 2023,24.62,Indonesia,371.5,Bulanan,1
+CUST1494,35.0,Laki-laki,Makassar,premium,9,408000.0,3672000.0,2,5.0,Transfer Bank,06/03/2025,25.5,Indonesia,227.2,Mingguan,0
+CUST1043,38.0,,Semarang,Basic,22,250600.0,5513200.0,2,7.0,Virtual Account,2024-02-10,15.66,Indonesia,275.5,Bulanan,0
+CUST1545,41.0,Perempuan,Surabaya,Premium,32,646700.0,20694400.0,0,9.0,E-Wallet,2023-04-16,40.42,Indonesia,921.6,Bulanan,0
+CUST1295,59.0,Perempuan,Surabaya,Basic,16,246400.0,3942400.0,1,7.0,Kartu Kredit,08-08-24,15.4,Indonesia,236.3,Bulanan,0
+CUST1304,39.0,Perempuan,Jakarta,Standard,55,388900.0,21389500.0,1,7.0,Transfer Bank,2021-05-26,24.31,Indonesia,90.4,Mingguan,0
+CUST1350,26.0,Laki-laki,jakarta ,Basic,10,246800.0,2468000.0,0,6.0,Transfer Bank,04 February 2025,15.42,Indonesia,202.9,Bulanan,0
+CUST1037,27.0,Laki-laki,Surabaya,Premium,24,662000.0,15888000.0,0,8.0,Transfer Bank,12-12-23,41.38,Indonesia,712.4,Bulanan,0
+CUST1211,34.0,Laki-laki,Surabaya,Standard,11,410000.0,4510000.0,1,6.0,Kartu Kredit,05 January 2025,25.62,Indonesia,457.0,Bulanan,0
+CUST1339,32.0,Laki-laki,Yogyakarta,Basic,19,242400.0,4605600.0,0,7.0,Kartu Kredit,05-10-24,15.15,Indonesia,293.0,Bulanan,0
+CUST1611,32.0,Laki-laki,Jakarta,Premium,12,622100.0,7465200.0,5,2.0,Ewallet,12-06-24,38.88,Indonesia,1071.8,Bulanan,0
+  cust1052@@,29.0,P,Bandung,Standard,58,394400.0,22875200.0,1,7.0,E-Wallet,2021-02-25,24.65,Indonesia,306.1,Bulanan,0
+CUST1019,26.0,Perempuan,Jkt,Basic,20,251800.0,5036000.0,0,7.0,Virtual Account,10 April 2024,15.74,Indonesia,156.5,Bulanan,0
+CUST1433,31.0,Perempuan,,Standard,5,407400.0,2037000.0,3,6.0,E-Wallet,2025-07-04,25.46,Indonesia,412.0,Bulanan,1
+CUST1592,18.0,Laki-laki,Yogyakarta,Standard,58,389000.0,22562000.0,2,99,E-Wallet,02-25-21,24.31,Indonesia,95.0,Mingguan,0
+CUST1159,32.0,Perempuan,Semarang,Premium,14,658800.0,9223200.0,2,4.0,Transfer Bank,07/10/2024,41.18,Indonesia,744.7,Bulanan,1
+CUST1411,35.0,Perempuan,Makassar,Standard,30,402100.0,12063000.0,1,7.0,E-Wallet,2023-06-15,25.13,Indonesia,331.1,Bulanan,0
+CUST1040,38.0,Laki-laki,Medan,Standard,34,405600.0,13790400.0,0,,Kartu Kredit,2023-02-15,25.35,Indonesia,123.0,Mingguan,0
+CUST1357,40.0,Perempuan,Surabaya,Basic,44,239900.0,10555600.0,0,8.0,Transfer Bank,2022-04-21,14.99,Indonesia,47.3,Mingguan,0
+CUST1398,38.0,Perempuan,Medan,Standard,15,382500.0,5737500.0,2,7.0,E-Wallet,07 September 2024,23.91,Indonesia,492.8,Bulanan,0
+CUST1515,29.0,L,Yogyakarta,Basic,46,243200.0,11187200.0,0,,Ewallet,2022-02-20,15.2,Indonesia,252.7,Bulanan,0
+CUST1495,150,Perempuan,semarang ,Basic,17,243600.0,4141200.0,0,7.0,E-Wallet,2024-07-09,15.22,Indonesia,51.8,Mingguan,0
+  cust1183@@,26.0,Laki-laki,Yogyakarta,Basic,6,253000.0,1518000.0,3,7.0,Transfer Bank,2025-06-04,15.81,Indonesia,170.2,Bulanan,0
+CUST1310,31.0,Perempuan,Jakarta,Basic,24,244400.0,5865600.0,1,8.0,Transfer Bank,12-12-23,15.28,Indonesia,68.0,Mingguan,0
